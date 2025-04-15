@@ -12,11 +12,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6345b2b6b87b360007
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6EmhRyo.png" group-title="Futebol",PFC Retrô (Pluto TV)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/632db46ae3dffe0007941ef8br/master.m3u8?deviceType=web&deviceMake=web&deviceModel=web&sid=123&appName=web
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0uq1MUM.png" group-title="Futebol",CBF TV (YouTube)
-https://www.youtube.com/@CBFTVOficial/live
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wa3HoLl.png" group-title="Futebol",Canal GOAT (YouTube)
-https://www.youtube.com/@canalgoat/live
+https://www.youtube.com/watch?v=CBFTVOficial_live_stream_1 (Use um conversor de stream aqui)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G9jhDHE.png" group-title="Futebol",TV Brasil Esportes
 https://playout.cdnstv.live/tvbrasil/tvbrasil.stream/playlist.m3u8
