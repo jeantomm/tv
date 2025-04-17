@@ -1,155 +1,43 @@
 #EXTM3U
-#EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV
-http://185.246.208.74:14662/
-
-#EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD 
-https://cr7v.short.gy/manoiTV/sptv/75991634025/index.m3u8
-
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD²
-https://cr7v.short.gy/manoiTV/sptvextra/75991634025/index.m3u8
-
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD³
-https://cr7v.short.gy/manoiTV/sptvxtra2/75991634025/index.m3u8
-
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV FHD 
-https://cr7v.short.gy/manoiTV/sptvFHD/75991634025/index.m3u8
-
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV 4k 
-https://cr7v.short.gy/manoiTV/sptv4k/75991634025/index.m3u8
-
-#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
-https://super-cdn.link/sportv2/index.m3u8
-
-#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 FHD 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/172 
-
-#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 HD
-https://super-cdn.link/sportv3/index.m3u8
-
-#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/175
-
-############################################################################ CANAIS ESPN
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN
-http://185.246.208.74:14493/
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD 
-https://cr7v.short.gy/manoiTV/spnHD/ZAP075991634025/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD²
-https://cr7v.short.gy/manoiTV/spnHD²/Index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN HD³
-https://cr7v.short.gy/manoiTV/ESPNHD³/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPN",ESPN FHD 
-https://cr7v.short.gy/manoiptvfree/ESPN4k/Index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD 
-http://conexao-vs.live/ESPN2/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 HD
-https://super-cdn.link/espn2/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo= "https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 FHD 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/135 
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPN",ESPN 2 4k 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/129 
-
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 HD 
-http://conexao-vs.live/ESPN/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 UHD
-https://super-cdn.link/espn3/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 FHD 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/126
-
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPN",ESPN 3 4k 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/127  
-
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD 
-http://conexao-vs.live/ESPN4/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD²
-http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/143
-
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD³
-https://super-cdn.link/espn4/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/142 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/140 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="Canais | ESPN",ESPN 6 HD 
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/134
-
-############################################################################ CANAIS ESPORTES
-
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports SD
-https://stream1.freetv.fun/band-sports-3.m3u8
-
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/121
-
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD²
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/120
-
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD³
-http://tv.fazoeli.co.za/m3u8/bandsports.m3u8
-
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes SD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/37016.m3u8
-
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
-https://cr7v.short.gy/M/Clube/Index.m3u8
-
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD²
-https://cr7v.short.gy/M/CLUBE1HD/Index.m3u8
-
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD³
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/63093.m3u8
-
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD⁴
-
-
-
-#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 SD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/37060.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="Canais | PREMIERE",Premiere 2 HD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36952.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 SD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/37059.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="Canais | PREMIERE",Premiere 3 HD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36951.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 HD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/155
-
-#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 FHD
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/4
-
-#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 5 SD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/37057.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE5" tvg-name="PREMIERE5" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 5 HD 
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36949.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 SD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/37056.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 6 HD" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 HD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36906.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 SD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/37017.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 7 HD" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="Canais | PREMIERE",Premiere 7 HD
-http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36905.m3u8
+#EXTINF:-1 xui-id="208247" tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 2 HD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFlteJDuTqQKi9G9ESyJ3TqrFI/ts
+#EXTINF:-1 xui-id="208248" tvg-id="" tvg-name="Premiere 2 SD" tvg-logo="http://23.158.232.11:80/images/f2f7142b4fdb9d53e36614f41378b315.png" group-title="CANAIS - PREMIERE",Premiere 2 SD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltfqIHN8MouTiwkgmQZZmOAw/ts
+#EXTINF:-1 xui-id="208249" tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 3 HD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFlteIrjmOqoqgLd0hTwWg0omI/ts
+#EXTINF:-1 xui-id="208250" tvg-id="" tvg-name="Premiere 3 SD" tvg-logo="http://23.158.232.11:80/images/a2e1ab6b89248b16604426c5ca320830.png" group-title="CANAIS - PREMIERE",Premiere 3 SD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltQAW7jNEs4TNz16qZQHSAWo/ts
+#EXTINF:-1 xui-id="208251" tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 4 HD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltSNPupwc7QmbXBF2QmXxhlQ/ts
+#EXTINF:-1 xui-id="208252" tvg-id="" tvg-name="Premiere 4 SD" tvg-logo="http://23.158.232.11:80/images/89ac2cdd7f380bcc3ada3546906acc79.png" group-title="CANAIS - PREMIERE",Premiere 4 SD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltdcO0a8MEu1PmjKUgybB0x0/ts
+#EXTINF:-1 xui-id="208253" tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 5 HD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltVXTi3GpERKFFzcoGGAN80Q/ts
+#EXTINF:-1 xui-id="208254" tvg-id="" tvg-name="Premiere 5 SD" tvg-logo="http://23.158.232.11:80/images/6795939589f70f5b50b88d0411960f17.png" group-title="CANAIS - PREMIERE",Premiere 5 SD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltRiWO3nwS-W8BDTQoBNsozc/ts
+#EXTINF:-1 xui-id="208255" tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 6 HD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltXcg8E1hlTu2zO7m9Tv_bGQ/ts
+#EXTINF:-1 xui-id="208256" tvg-id="" tvg-name="Premiere 6 SD" tvg-logo="http://23.158.232.11:80/images/4290bc16317fdb3af6cba79eed703d49.png" group-title="CANAIS - PREMIERE",Premiere 6 SD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltUeRQfTgUltJxbnivvbh15A/ts
+#EXTINF:-1 xui-id="208257" tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere 7 HD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltRjuFQdoNJfhElMpfUhulD4/ts
+#EXTINF:-1 xui-id="208258" tvg-id="" tvg-name="Premiere 7 SD" tvg-logo="http://23.158.232.11:80/images/a4bef6cda5913f02d15a3c35c7cea63a.png" group-title="CANAIS - PREMIERE",Premiere 7 SD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFlte0MEqhdQCUn5WZZ322DaG0/ts
+#EXTINF:-1 xui-id="208259" tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="" group-title="CANAIS - PREMIERE",Premiere Clubes HD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltQbCgn2EmxX7qtYrc7873SA/ts
+#EXTINF:-1 xui-id="208260" tvg-id="" tvg-name="Premiere Clubes SD" tvg-logo="http://23.158.232.11:80/images/c4a77d98ce3a6e69ceb56e100101b413.png" group-title="CANAIS - PREMIERE",Premiere Clubes SD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltYm3pSCbm6vOQmm1PhyIxXU/ts
+#EXTINF:-1 xui-id="208261" tvg-id="" tvg-name="Premiere 2 FHD" tvg-logo="http://23.158.232.11:80/images/f2f7142b4fdb9d53e36614f41378b315.png" group-title="CANAIS - PREMIERE",Premiere 2 FHD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltSf2MPH5OSSmcGIcxcHWWUU/ts
+#EXTINF:-1 xui-id="208262" tvg-id="" tvg-name="Premiere 3 FHD" tvg-logo="http://23.158.232.11:80/images/a2e1ab6b89248b16604426c5ca320830.png" group-title="CANAIS - PREMIERE",Premiere 3 FHD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltUqpViVwCo5qxSuLm0-64iY/ts
+#EXTINF:-1 xui-id="208263" tvg-id="" tvg-name="Premiere 4 FHD" tvg-logo="http://23.158.232.11:80/images/89ac2cdd7f380bcc3ada3546906acc79.png" group-title="CANAIS - PREMIERE",Premiere 4 FHD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltW-dRw9vFuRuBNOQaP3i-BE/ts
+#EXTINF:-1 xui-id="208264" tvg-id="" tvg-name="Premiere 5 FHD" tvg-logo="http://23.158.232.11:80/images/6795939589f70f5b50b88d0411960f17.png" group-title="CANAIS - PREMIERE",Premiere 5 FHD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltZJBmwHeCBRX3gWedOOKyak/ts
+#EXTINF:-1 xui-id="208265" tvg-id="" tvg-name="Premiere 6 FHD" tvg-logo="http://23.158.232.11:80/images/4290bc16317fdb3af6cba79eed703d49.png" group-title="CANAIS - PREMIERE",Premiere 6 FHD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltUumeFhBIX_e_2SM6bMNkPc/ts
+#EXTINF:-1 xui-id="208266" tvg-id="" tvg-name="Premiere 7 FHD" tvg-logo="http://23.158.232.11:80/images/a4bef6cda5913f02d15a3c35c7cea63a.png" group-title="CANAIS - PREMIERE",Premiere 7 FHD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltblNjelRBaW8KV6kcBamTnA/ts
+#EXTINF:-1 xui-id="208267" tvg-id="" tvg-name="Premiere Clubes FHD" tvg-logo="http://23.158.232.11:80/images/c4a77d98ce3a6e69ceb56e100101b413.png" group-title="CANAIS - PREMIERE",Premiere Clubes FHD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFlteIM06XeKF9KyPkioDcKbJY/ts
