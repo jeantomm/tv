@@ -147,7 +147,7 @@ http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltaqZyYTg1wAiADXyK3ks7gA/ts
 http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltc4dvix-vd-F5wR6tLoh8BI/ts
 #EXTINF:-1 xui-id="207691" tvg-id="" tvg-name="Real Madrid TV" tvg-logo="https://cutt.ly/NwdT585c" group-title="Esportes"",Real Madrid TV
 http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltYOWrC_GhAlggVAeIJlKop0/ts
-#EXTINF:-1 xui-id="207692" tvg-id="" tvg-name="ESPN 5 HD" tvg-logo="http://23.158.232.11:80/images/26cd3a056d7a6b1a5b255df962de1ed7.png" group-title="Esportes"",ESPN 5 HD
+#EXTINF:-1 xui-id="207692" tvg-id="" tvg-name="ESPN 5 HD" tvg-logo="http://23.158.232.11:80/images/89aa8329ecd0bb7106fcb23a1c2dc4bb.png" group-title="Esportes"",ESPN 5 HD
 http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltbyxs5VkoZOC0GZyL4wJWSg/ts
 #EXTINF:-1 xui-id="207693" tvg-id="" tvg-name="Band Sports FHD" tvg-logo="http://23.158.232.11:80/images/26cd3a056d7a6b1a5b255df962de1ed7.png" group-title="Esportes"",Band Sports FHD
 http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltWj_ReotyEoVg1OjHBMca5c/ts
@@ -253,5 +253,78 @@ http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltWECIv3ZNaThZXNBa1kh5aU/ts
 http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltVF6Nl4tAA9q4rxJRRpVslo/ts
 #EXTINF:-1 xui-id="207756" tvg-id="" tvg-name="Warner FHD" tvg-logo="http://23.158.232.11:80/images/748d393aa3d8fd4ea3cde402c5efdde6.png" group-title="Filmes",Warner FHD
 http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltaAXQpN3NNHIGV9S1D1_e-w/ts
+#EXTINF:-1 xui-id="208091" tvg-id="" tvg-name="Disney Channel HD" tvg-logo="http://23.158.232.11:80/images/4cc6e3f46b6045d5307ee39e8d578faf.png" group-title="CANAIS - INFANTIL",Disney Channel HD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltaL4XqsDqG7u1_AMThRj1D8/ts
+#EXTINF:-1 xui-id="208092" tvg-id="" tvg-name="Disney Channel SD" tvg-logo="http://23.158.232.11:80/images/4cc6e3f46b6045d5307ee39e8d578faf.png" group-title="CANAIS - INFANTIL",Disney Channel SD
+#EXTINF:-1 xui-id="208188" tvg-id="" tvg-name="Amazon Prime - 01" tvg-logo="https://download.logo.wine/logo/Amazon_Prime/Amazon_Prime-Logo.wine.png" group-title="CANAIS - PAYPERVIEW",Amazon Prime - 01
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltRcyrFZ9-pnGte2mU0J9Lbk/ts
+#EXTINF:-1 xui-id="208189" tvg-id="" tvg-name="Amazon Prime - 02" tvg-logo="https://download.logo.wine/logo/Amazon_Prime/Amazon_Prime-Logo.wine.png" group-title="CANAIS - PAYPERVIEW",Amazon Prime - 02
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltfZmnNjrlKrCX_kliZfO9HE/ts
+#EXTINF:-1 xui-id="208190" tvg-id="" tvg-name="Amazon Prime - 03" tvg-logo="https://download.logo.wine/logo/Amazon_Prime/Amazon_Prime-Logo.wine.png" group-title="CANAIS - PAYPERVIEW",Amazon Prime - 03
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltdsNQlaUVqzuELA_7N5PUYc/ts
+#EXTINF:-1 xui-id="208191" tvg-id="" tvg-name="Amazon Prime - 04" tvg-logo="https://download.logo.wine/logo/Amazon_Prime/Amazon_Prime-Logo.wine.png" group-title="CANAIS - PAYPERVIEW",Amazon Prime - 04
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltWeoXJd91HE9aL5UhjhhGls/ts
+#EXTINF:-1 xui-id="208192" tvg-id="" tvg-name="Champions League 01" tvg-logo="" group-title="CANAIS - PAYPERVIEW",Champions League 01
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltRi70sUrkGEhCIuxScMhCJ4/ts
+#EXTINF:-1 xui-id="208193" tvg-id="" tvg-name="Champions League 02" tvg-logo="" group-title="CANAIS - PAYPERVIEW",Champions League 02
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltRBVRnAFCbCY-8QiMMaRokc/ts
+#EXTINF:-1 xui-id="208194" tvg-id="" tvg-name="Champions League 03" tvg-logo="" group-title="CANAIS - PAYPERVIEW",Champions League 03
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltTDS8xi1qo1NXXsb2576QqY/ts
+#EXTINF:-1 xui-id="208195" tvg-id="" tvg-name="Champions League 04" tvg-logo="" group-title="CANAIS - PAYPERVIEW",Champions League 04
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltZSMeIwqUGpDHBftv7S1WLo/ts
+#EXTINF:-1 xui-id="208196" tvg-id="" tvg-name="Champions League 05" tvg-logo="" group-title="CANAIS - PAYPERVIEW",Champions League 05
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltftk4HzYgBWB0MGxLFXAgRE/ts
+#EXTINF:-1 xui-id="208197" tvg-id="" tvg-name="Champions League 06" tvg-logo="" group-title="CANAIS - PAYPERVIEW",Champions League 06
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltVAg-OtO8mU3ncHkY5odcHo/ts
+#EXTINF:-1 xui-id="208208" tvg-id="" tvg-name="Paramount Plus - 01" tvg-logo="" group-title="CANAIS - PAYPERVIEW",Paramount Plus - 01
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltUPjxA72p2KGbjSXjDKeqAo/ts
+#EXTINF:-1 xui-id="208209" tvg-id="" tvg-name="Paramount Plus - 02" tvg-logo="" group-title="CANAIS - PAYPERVIEW",Paramount Plus - 02
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltfIKdGNkoEc0ZOjwq1c6Plc/ts
+#EXTINF:-1 xui-id="208210" tvg-id="" tvg-name="Paramount Plus - 03" tvg-logo="" group-title="CANAIS - PAYPERVIEW",Paramount Plus - 03
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltQG0_LXrUfO_5BQr5oZpK2o/ts
+#EXTINF:-1 xui-id="208211" tvg-id="" tvg-name="Paramount Plus - 04" tvg-logo="" group-title="CANAIS - PAYPERVIEW",Paramount Plus - 04
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltTHaoThUhsqNZtPDHh83o-0/ts
+#EXTINF:-1 xui-id="208212" tvg-id="" tvg-name="Paramount Plus - 05" tvg-logo="" group-title="CANAIS - PAYPERVIEW",Paramount Plus - 05
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltZBbLU69CoxXZe4qjMKnwSs/ts
+#EXTINF:-1 xui-id="208213" tvg-id="" tvg-name="Paramount Plus - 06" tvg-logo="" group-title="CANAIS - PAYPERVIEW",Paramount Plus - 06
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltU-5ywo4KUGD_Hfipt1sHyg/ts
+#EXTINF:-1 xui-id="208214" tvg-id="" tvg-name="Paulistão 1" tvg-logo="http://23.158.232.11:80/images/a4fb11d7a02fc5c9e528445bd62f85a0.png" group-title="CANAIS - PAYPERVIEW",Paulistão 1
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltaedHB47xLCfzDgbOYvwvX4/ts
+#EXTINF:-1 xui-id="208215" tvg-id="" tvg-name="Paulistão 2" tvg-logo="http://23.158.232.11:80/images/a4fb11d7a02fc5c9e528445bd62f85a0.png" group-title="CANAIS - PAYPERVIEW",Paulistão 2
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltcv2DFhfHXSme4ezy7zmJPU/ts
+#EXTINF:-1 xui-id="208216" tvg-id="" tvg-name="Star+ 1 HD" tvg-logo="" group-title="CANAIS - PAYPERVIEW",Star+ 1 HD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltYDnzEvlLgaWIEYfsak8Bg4/ts
+#EXTINF:-1 xui-id="208217" tvg-id="" tvg-name="Star+ 2 HD" tvg-logo="" group-title="CANAIS - PAYPERVIEW",Star+ 2 HD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltap6gPFaXxreTU6iqXL6KJM/ts
+#EXTINF:-1 xui-id="208218" tvg-id="" tvg-name="Star+ 3 HD" tvg-logo="" group-title="CANAIS - PAYPERVIEW",Star+ 3 HD
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltbeE-N6vdGWrk2b-i7_gp0s/ts
+#EXTINF:-1 xui-id="208219" tvg-id="" tvg-name="TNT Sports 01" tvg-logo="" group-title="CANAIS - PAYPERVIEW",TNT Sports 01
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltXw1J8PosAN1KmEzSDzhMEY/ts
+#EXTINF:-1 xui-id="208220" tvg-id="" tvg-name="TNT Sports 02" tvg-logo="" group-title="CANAIS - PAYPERVIEW",TNT Sports 02
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltZegJJR24wIcTpx7dYMJRJE/ts
+#EXTINF:-1 xui-id="208221" tvg-id="" tvg-name="TNT Sports 03" tvg-logo="" group-title="CANAIS - PAYPERVIEW",TNT Sports 03
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltZnMpo8LGo5Skr2x7d3uQec/ts
+#EXTINF:-1 xui-id="208222" tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="" group-title="CANAIS - PAYPERVIEW",UFC Fight Pass
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltd8ok7zKVzpS3iNMYnNKycs/ts
+#EXTINF:-1 xui-id="208223" tvg-id="" tvg-name="UFC FIGHT PASS 2" tvg-logo="" group-title="CANAIS - PAYPERVIEW",UFC FIGHT PASS 2
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltXo7z2FCEs-EVjabvy0yKCs/ts
+#EXTINF:-1 xui-id="208224" tvg-id="" tvg-name="UFC FIGHT PASS 3" tvg-logo="" group-title="CANAIS - PAYPERVIEW",UFC FIGHT PASS 3
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltTu6JN69O1AzwK3RLTHzkiY/ts
+#EXTINF:-1 xui-id="208225" tvg-id="" tvg-name="REDE FURACAO" tvg-logo="" group-title="CANAIS - PAYPERVIEW",REDE FURACAO
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltQtdjTo8Gj-y3f_Y3ggFFFw/ts
+#EXTINF:-1 xui-id="208226" tvg-id="" tvg-name="APPLE TV +" tvg-logo="" group-title="CANAIS - PAYPERVIEW",APPLE TV +
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltbIGQ-WL6EwUKeesnDRh65c/ts
+#EXTINF:-1 xui-id="208227" tvg-id="" tvg-name="Amazon Prime Video - 05" tvg-logo="" group-title="CANAIS - PAYPERVIEW",Amazon Prime Video - 05
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltRfL8Dmq7TlrBm4Un7IVxDk/ts
+#EXTINF:-1 xui-id="208228" tvg-id="" tvg-name="Disney+ 1" tvg-logo="http://23.158.232.11:80/images/09434fe38280d498e0f0028c29758630.png" group-title="CANAIS - PAYPERVIEW",Disney+ 1
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltUjFI71TLleTFCF2YRj8AGs/ts
+#EXTINF:-1 xui-id="208229" tvg-id="" tvg-name="Disney+ 2" tvg-logo="http://23.158.232.11:80/images/09434fe38280d498e0f0028c29758630.png" group-title="CANAIS - PAYPERVIEW",Disney+ 2
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltZsctiQsf7h82Pjvwy6O4nk/ts
+#EXTINF:-1 xui-id="208230" tvg-id="" tvg-name="UFC FIGHT PASS 4" tvg-logo="" group-title="CANAIS - PAYPERVIEW",UFC FIGHT PASS 4
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltWYjRK9FYXH4R9kyggf_XHM/ts
+#EXTINF:-1 xui-id="208235" tvg-id="" tvg-name="Disney+ 4" tvg-logo="http://23.158.232.11:80/images/09434fe38280d498e0f0028c29758630.png" group-title="CANAIS - PAYPERVIEW",Disney+ 4
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltQCGK4GpPS22xX9q7huSNkk/ts
+#EXTINF:-1 xui-id="208236" tvg-id="" tvg-name="Disney+ 3" tvg-logo="http://23.158.232.11:80/images/09434fe38280d498e0f0028c29758630.png" group-title="CANAIS - PAYPERVIEW",Disney+ 3
+http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltWRgAA_1NOtFLT8HSTsBCzo/ts
 
 
