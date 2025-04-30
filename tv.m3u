@@ -1,44 +1,161 @@
 #EXTM3U
-#EXTINF:-1 xui-id="208247" tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="http://23.158.232.11:80/images/f2f7142b4fdb9d53e36614f41378b315.png" group-title="Esportes",Premiere 2 HD
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFlteJDuTqQKi9G9ESyJ3TqrFI/ts
-#EXTINF:-1 xui-id="208248" tvg-id="" tvg-name="Premiere 2 SD" tvg-logo="http://23.158.232.11:80/images/f2f7142b4fdb9d53e36614f41378b315.png" group-title="Esportes",Premiere 2 SD
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltfqIHN8MouTiwkgmQZZmOAw/ts
-#EXTINF:-1 xui-id="208249" tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="http://23.158.232.11:80/images/a2e1ab6b89248b16604426c5ca320830.png" group-title="Esportes",Premiere 3 HD
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFlteIrjmOqoqgLd0hTwWg0omI/ts
-#EXTINF:-1 xui-id="208250" tvg-id="" tvg-name="Premiere 3 SD" tvg-logo="http://23.158.232.11:80/images/a2e1ab6b89248b16604426c5ca320830.png" group-title="Esportes",Premiere 3 SD
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltQAW7jNEs4TNz16qZQHSAWo/ts
-#EXTINF:-1 xui-id="208251" tvg-id="" tvg-name="Premiere 4 HD" tvg-logo=http://23.158.232.11:80/images/89ac2cdd7f380bcc3ada3546906acc79.png"" group-title="Esportes",Premiere 4 HD
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltSNPupwc7QmbXBF2QmXxhlQ/ts
-#EXTINF:-1 xui-id="208252" tvg-id="" tvg-name="Premiere 4 SD" tvg-logo="http://23.158.232.11:80/images/89ac2cdd7f380bcc3ada3546906acc79.png" group-title="Esportes",Premiere 4 SD
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltdcO0a8MEu1PmjKUgybB0x0/ts
-#EXTINF:-1 xui-id="208253" tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="http://23.158.232.11:80/images/6795939589f70f5b50b88d0411960f17.png" group-title="Esportes",Premiere 5 HD
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltVXTi3GpERKFFzcoGGAN80Q/ts
-#EXTINF:-1 xui-id="208254" tvg-id="" tvg-name="Premiere 5 SD" tvg-logo="http://23.158.232.11:80/images/6795939589f70f5b50b88d0411960f17.png" group-title="Esportes",Premiere 5 SD
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltRiWO3nwS-W8BDTQoBNsozc/ts
-#EXTINF:-1 xui-id="208255" tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="http://23.158.232.11:80/images/4290bc16317fdb3af6cba79eed703d49.png" group-title="Esportes",Premiere 6 HD
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltXcg8E1hlTu2zO7m9Tv_bGQ/ts
-#EXTINF:-1 xui-id="208256" tvg-id="" tvg-name="Premiere 6 SD" tvg-logo="http://23.158.232.11:80/images/4290bc16317fdb3af6cba79eed703d49.png" group-title="Esportes",Premiere 6 SD
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltUeRQfTgUltJxbnivvbh15A/ts
-#EXTINF:-1 xui-id="208257" tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://23.158.232.11:80/images/a4bef6cda5913f02d15a3c35c7cea63a.png" group-title="Esportes",Premiere 7 HD
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltRjuFQdoNJfhElMpfUhulD4/ts
-#EXTINF:-1 xui-id="208258" tvg-id="" tvg-name="Premiere 7 SD" tvg-logo="http://23.158.232.11:80/images/a4bef6cda5913f02d15a3c35c7cea63a.png" group-title="Esportes",Premiere 7 SD
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFlte0MEqhdQCUn5WZZ322DaG0/ts
-#EXTINF:-1 xui-id="208259" tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="http://23.158.232.11:80/images/c4a77d98ce3a6e69ceb56e100101b413.png" group-title="Esportes",Premiere Clubes HD
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltQbCgn2EmxX7qtYrc7873SA/ts
-#EXTINF:-1 xui-id="208260" tvg-id="" tvg-name="Premiere Clubes SD" tvg-logo="http://23.158.232.11:80/images/c4a77d98ce3a6e69ceb56e100101b413.png" group-title="Esportes",Premiere Clubes SD
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltYm3pSCbm6vOQmm1PhyIxXU/ts
-#EXTINF:-1 xui-id="208261" tvg-id="" tvg-name="Premiere 2 FHD" tvg-logo="http://23.158.232.11:80/images/f2f7142b4fdb9d53e36614f41378b315.png" group-title="Esportes",Premiere 2 FHD
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltSf2MPH5OSSmcGIcxcHWWUU/ts
-#EXTINF:-1 xui-id="208262" tvg-id="" tvg-name="Premiere 3 FHD" tvg-logo="http://23.158.232.11:80/images/a2e1ab6b89248b16604426c5ca320830.png" group-title="Esportes",Premiere 3 FHD
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltUqpViVwCo5qxSuLm0-64iY/ts
-#EXTINF:-1 xui-id="208263" tvg-id="" tvg-name="Premiere 4 FHD" tvg-logo="http://23.158.232.11:80/images/89ac2cdd7f380bcc3ada3546906acc79.png" group-title="Esportes",Premiere 4 FHD
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltW-dRw9vFuRuBNOQaP3i-BE/ts
-#EXTINF:-1 xui-id="208264" tvg-id="" tvg-name="Premiere 5 FHD" tvg-logo="http://23.158.232.11:80/images/6795939589f70f5b50b88d0411960f17.png" group-title="Esportes",Premiere 5 FHD
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltZJBmwHeCBRX3gWedOOKyak/ts
-#EXTINF:-1 xui-id="208265" tvg-id="" tvg-name="Premiere 6 FHD" tvg-logo="http://23.158.232.11:80/images/4290bc16317fdb3af6cba79eed703d49.png" group-title="Esportes",Premiere 6 FHD
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltUumeFhBIX_e_2SM6bMNkPc/ts
-#EXTINF:-1 xui-id="208266" tvg-id="" tvg-name="Premiere 7 FHD" tvg-logo="http://23.158.232.11:80/images/a4bef6cda5913f02d15a3c35c7cea63a.png" group-title="Esportes",Premiere 7 FHD
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltblNjelRBaW8KV6kcBamTnA/ts
+#EXTINF:-1 xui-id="629907" tvg-id="" tvg-name="MOSAICO PREMIERE HD" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",MOSAICO PREMIERE HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W9O6KxI5bIam7o5K6BzLBBc/ts
+
+#EXTINF:-1 xui-id="629909" tvg-id="" tvg-name="Premiere Clubes FHD" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",Premiere Clubes FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WzEEOOGS3NlzuwHN5nA2QRs/ts
+#EXTINF:-1 xui-id="629910" tvg-id="" tvg-name="PREMIERE CLUBES FHD" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",PREMIERE CLUBES FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wx5GOz8xEXBIEG0XCE4yIHw/ts
+#EXTINF:-1 xui-id="629911" tvg-id="" tvg-name="Premiere Clubes FHD" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",Premiere Clubes FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W_oFiN68N0HO_Qx4Q5KGIFk/ts
+#EXTINF:-1 xui-id="629912" tvg-id="" tvg-name="PREMIERE CLUBE FHD" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",PREMIERE CLUBE FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WxVo5sRFbU-yiNYurRMlcn0/ts
+#EXTINF:-1 xui-id="629913" tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",Premiere Clubes HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W9p9KCEdUey6gTtT2f7Rsjg/ts
+#EXTINF:-1 xui-id="629914" tvg-id="" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",PREMIERE CLUBES HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W_W9FAItrPqXelaBG3Z5X6s/ts
+#EXTINF:-1 xui-id="629915" tvg-id="" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",PREMIERE CLUBES HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W1lrZuWV4iC5Ju_QutuJ5pg/ts
+#EXTINF:-1 xui-id="629916" tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",Premiere Clubes HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WwwaQOv1_69sWYL-FF15C0Y/ts
+#EXTINF:-1 xui-id="629917" tvg-id="" tvg-name="Premiere Clubes SD" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",Premiere Clubes SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W-XlcOIwOz1LrYOCGO9wrKY/ts
+#EXTINF:-1 xui-id="629918" tvg-id="" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",PREMIERE CLUBES SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W_XeLDFx4NtnX7o2Jiayu4E/ts
+#EXTINF:-1 xui-id="629919" tvg-id="" tvg-name="PREMIERE CLUBES SD" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",PREMIERE CLUBES SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W9ZjQKIUbzEwbsrDJtzXxyw/ts
+#EXTINF:-1 xui-id="629920" tvg-id="" tvg-name="Premiere Clubes SD" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",Premiere Clubes SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W5Ix0m2BF9hiELO-mbAuCvg/ts
+#EXTINF:-1 xui-id="629921" tvg-id="" tvg-name="Premiere 2 FHD" tvg-logo="http://i.imgur.com/V6iLZtF.png" group-title="⚽PREMIERE ²",Premiere 2 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W4yI9AulqAcpam4i-eVK9qg/ts
+#EXTINF:-1 xui-id="629922" tvg-id="" tvg-name="Premiere 2 FHD" tvg-logo="http://i.imgur.com/V6iLZtF.png" group-title="⚽PREMIERE ²",Premiere 2 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W9_RO1TT7W1rdE347rNwi4E/ts
+#EXTINF:-1 xui-id="629923" tvg-id="" tvg-name="PREMIERE 2 FHD" tvg-logo="http://i.imgur.com/V6iLZtF.png" group-title="⚽PREMIERE ²",PREMIERE 2 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W3bNO_0AK9EDwwWyG2QQlws/ts
+#EXTINF:-1 xui-id="629924" tvg-id="" tvg-name="PREMIERE 2 FHD" tvg-logo="http://i.imgur.com/V6iLZtF.png" group-title="⚽PREMIERE ²",PREMIERE 2 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wzw2QLu5GySobyYEbsk-KM8/ts
+#EXTINF:-1 xui-id="629925" tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="http://i.imgur.com/V6iLZtF.png" group-title="⚽PREMIERE ²",Premiere 2 HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WyiSINUSUd2o4WglTAGJBQU/ts
+#EXTINF:-1 xui-id="629926" tvg-id="" tvg-name="PREMIERE 2 HD" tvg-logo="http://i.imgur.com/V6iLZtF.png" group-title="⚽PREMIERE ²",PREMIERE 2 HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W2aHgsrA75GTBgRUNzwE1nU/ts
+#EXTINF:-1 xui-id="629927" tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="http://i.imgur.com/V6iLZtF.png" group-title="⚽PREMIERE ²",Premiere 2 HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W4FAaBLcR2HHH4h6QtBi-eI/ts
+#EXTINF:-1 xui-id="629928" tvg-id="" tvg-name="Premiere 2 SD" tvg-logo="http://i.imgur.com/V6iLZtF.png" group-title="⚽PREMIERE ²",Premiere 2 SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W3lJ_7DO4aOBzzmSKJvTt98/ts
+#EXTINF:-1 xui-id="629929" tvg-id="" tvg-name="PREMIERE 2 SD" tvg-logo="http://i.imgur.com/V6iLZtF.png" group-title="⚽PREMIERE ²",PREMIERE 2 SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W-c7fa030xil5vl-BaRfnWo/ts
+#EXTINF:-1 xui-id="629930" tvg-id="" tvg-name="Premiere 2 SD" tvg-logo="http://i.imgur.com/V6iLZtF.png" group-title="⚽PREMIERE ²",Premiere 2 SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WymL0fUSeo0F65fVm3G12C8/ts
+#EXTINF:-1 xui-id="629931" tvg-id="" tvg-name="Premiere 3 FHD" tvg-logo="http://i.imgur.com/1Wt3714.png" group-title="⚽PREMIERE ²",Premiere 3 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W3P7a5aImyo5InBLe2IYH7w/ts
+#EXTINF:-1 xui-id="629932" tvg-id="" tvg-name="Premiere 3 FHD" tvg-logo="http://i.imgur.com/1Wt3714.png" group-title="⚽PREMIERE ²",Premiere 3 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W8FY8IgU4NShNXxdvFcLL6Q/ts
+#EXTINF:-1 xui-id="629933" tvg-id="" tvg-name="PREMIERE 3 FHD" tvg-logo="http://i.imgur.com/1Wt3714.png" group-title="⚽PREMIERE ²",PREMIERE 3 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W-yp5TMU1Sv8QO6Oua-MpTk/ts
+#EXTINF:-1 xui-id="629934" tvg-id="" tvg-name="PREMIERE 3 FHD" tvg-logo="http://i.imgur.com/1Wt3714.png" group-title="⚽PREMIERE ²",PREMIERE 3 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WyLsyqDDXMCIkd07exbSvKE/ts
+#EXTINF:-1 xui-id="629935" tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="http://i.imgur.com/1Wt3714.png" group-title="⚽PREMIERE ²",Premiere 3 HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W5x8jOgzty7xNkQT3YHPFDY/ts
+#EXTINF:-1 xui-id="629936" tvg-id="" tvg-name="PREMIERE 3 HD" tvg-logo="http://i.imgur.com/1Wt3714.png" group-title="⚽PREMIERE ²",PREMIERE 3 HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W-Yi_o0zvY1RNP58Y2eW2Fg/ts
+#EXTINF:-1 xui-id="629937" tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="http://i.imgur.com/1Wt3714.png" group-title="⚽PREMIERE ²",Premiere 3 HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W1gLMM2FAw3VSA8R7vNbVDM/ts
+#EXTINF:-1 xui-id="629938" tvg-id="" tvg-name="Premiere 3 SD" tvg-logo="http://i.imgur.com/1Wt3714.png" group-title="⚽PREMIERE ²",Premiere 3 SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W34VwyQCzIROQwWmXHJxDVY/ts
+#EXTINF:-1 xui-id="629939" tvg-id="" tvg-name="PREMIERE 3 SD" tvg-logo="http://i.imgur.com/1Wt3714.png" group-title="⚽PREMIERE ²",PREMIERE 3 SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W2oCXJUQEMDrgDGfftLUUCQ/ts
+#EXTINF:-1 xui-id="629940" tvg-id="" tvg-name="Premiere 3 SD" tvg-logo="http://i.imgur.com/1Wt3714.png" group-title="⚽PREMIERE ²",Premiere 3 SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W1yoLA_J4sFpzbNT_FlB2y4/ts
+#EXTINF:-1 xui-id="629941" tvg-id="" tvg-name="Premiere 4 FHD" tvg-logo="http://i.imgur.com/uDRS3kc.png" group-title="⚽PREMIERE ²",Premiere 4 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WwZscN3t8K5es5UypPLwIPQ/ts
+#EXTINF:-1 xui-id="629942" tvg-id="" tvg-name="Premiere 4 FHD" tvg-logo="http://i.imgur.com/uDRS3kc.png" group-title="⚽PREMIERE ²",Premiere 4 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WwFxO0lnabKv4ik2i8raDLY/ts
+#EXTINF:-1 xui-id="629943" tvg-id="" tvg-name="PREMIERE 4 FHD" tvg-logo="http://i.imgur.com/uDRS3kc.png" group-title="⚽PREMIERE ²",PREMIERE 4 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W4BeZgt9KN_L3hnWAgraq6Q/ts
+#EXTINF:-1 xui-id="629944" tvg-id="" tvg-name="PREMIERE 4 FHD" tvg-logo="http://i.imgur.com/uDRS3kc.png" group-title="⚽PREMIERE ²",PREMIERE 4 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W2occIkcBPH6LCQG1MUkJLU/ts
+#EXTINF:-1 xui-id="629945" tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="http://i.imgur.com/uDRS3kc.png" group-title="⚽PREMIERE ²",Premiere 4 HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W7yfOKtPbbB_fMB_OGUcrwk/ts
+#EXTINF:-1 xui-id="629946" tvg-id="" tvg-name="PREMIERE 4 HD" tvg-logo="http://i.imgur.com/uDRS3kc.png" group-title="⚽PREMIERE ²",PREMIERE 4 HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W5AyTK7ewQLt1lAT3VQfCY4/ts
+#EXTINF:-1 xui-id="629947" tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="http://i.imgur.com/uDRS3kc.png" group-title="⚽PREMIERE ²",Premiere 4 HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WwSYohQBPG5BAcGBX1sfzL4/ts
+#EXTINF:-1 xui-id="629948" tvg-id="" tvg-name="Premiere 4 SD" tvg-logo="http://i.imgur.com/uDRS3kc.png" group-title="⚽PREMIERE ²",Premiere 4 SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W2hw60kjjPjF9LD3zHwNwpI/ts
+#EXTINF:-1 xui-id="629949" tvg-id="" tvg-name="PREMIERE 4 SD" tvg-logo="http://i.imgur.com/uDRS3kc.png" group-title="⚽PREMIERE ²",PREMIERE 4 SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W2OubqO_1wxO7lZrf9lPrVM/ts
+#EXTINF:-1 xui-id="629950" tvg-id="" tvg-name="Premiere 4 SD" tvg-logo="http://i.imgur.com/uDRS3kc.png" group-title="⚽PREMIERE ²",Premiere 4 SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W1lqBzKw1dLkI2xOIj0C5FQ/ts
+#EXTINF:-1 xui-id="629951" tvg-id="" tvg-name="Premiere 5 FHD" tvg-logo="http://i.imgur.com/iWubary.png" group-title="⚽PREMIERE ²",Premiere 5 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WzVydqtMJ60q6_1_xHFYfvE/ts
+#EXTINF:-1 xui-id="629952" tvg-id="" tvg-name="Premiere 5 FHD" tvg-logo="http://i.imgur.com/iWubary.png" group-title="⚽PREMIERE ²",Premiere 5 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W5T0sh7wmZYH9OoiEjyIIfI/ts
+#EXTINF:-1 xui-id="629953" tvg-id="" tvg-name="PREMIERE 5 FHD" tvg-logo="http://i.imgur.com/iWubary.png" group-title="⚽PREMIERE ²",PREMIERE 5 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WxIwxrUFhfjkT3_tUzAFPZU/ts
+#EXTINF:-1 xui-id="629954" tvg-id="" tvg-name="PREMIERE 5 FHD" tvg-logo="http://i.imgur.com/iWubary.png" group-title="⚽PREMIERE ²",PREMIERE 5 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WzF9Joz5JjXnev12Y5EFGfw/ts
+#EXTINF:-1 xui-id="629955" tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="http://i.imgur.com/iWubary.png" group-title="⚽PREMIERE ²",Premiere 5 HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wx2RSznaskP0IpGdh9WNLzw/ts
+#EXTINF:-1 xui-id="629956" tvg-id="" tvg-name="PREMIERE 5 HD" tvg-logo="http://i.imgur.com/iWubary.png" group-title="⚽PREMIERE ²",PREMIERE 5 HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W-XGVSj3K89GvV0vZVyAMg8/ts
+#EXTINF:-1 xui-id="629957" tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="http://i.imgur.com/iWubary.png" group-title="⚽PREMIERE ²",Premiere 5 HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WxP84uqWMontzuthKP4CeKQ/ts
+#EXTINF:-1 xui-id="629958" tvg-id="" tvg-name="Premiere 5 SD" tvg-logo="http://i.imgur.com/iWubary.png" group-title="⚽PREMIERE ²",Premiere 5 SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WyEYjtnD93AccaXauFz1UMw/ts
+#EXTINF:-1 xui-id="629959" tvg-id="" tvg-name="PREMIERE 5 SD" tvg-logo="http://i.imgur.com/iWubary.png" group-title="⚽PREMIERE ²",PREMIERE 5 SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W2HsOqKb3JmKejaFNkkCHso/ts
+#EXTINF:-1 xui-id="629960" tvg-id="" tvg-name="Premiere 5 SD" tvg-logo="http://i.imgur.com/iWubary.png" group-title="⚽PREMIERE ²",Premiere 5 SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W4pTrKhv1xg4RLCyhsUsSCg/ts
+#EXTINF:-1 xui-id="629961" tvg-id="" tvg-name="Premiere 6 FHD" tvg-logo="http://i.imgur.com/0CmeRFl.png" group-title="⚽PREMIERE ²",Premiere 6 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W4vgeVPjWWBcvaTU5IWFZg4/ts
+#EXTINF:-1 xui-id="629962" tvg-id="" tvg-name="Premiere 6 FHD" tvg-logo="http://i.imgur.com/0CmeRFl.png" group-title="⚽PREMIERE ²",Premiere 6 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W_VkmpELlfJ6_DV_ImNs73g/ts
+#EXTINF:-1 xui-id="629963" tvg-id="" tvg-name="PREMIERE 6 FHD" tvg-logo="http://i.imgur.com/0CmeRFl.png" group-title="⚽PREMIERE ²",PREMIERE 6 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WwRdyeCwYoaNW_qTT7dVUrY/ts
+#EXTINF:-1 xui-id="629964" tvg-id="" tvg-name="PREMIERE 6 FHD" tvg-logo="http://i.imgur.com/0CmeRFl.png" group-title="⚽PREMIERE ²",PREMIERE 6 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W3KlfMvQ0OFLJbC1kxy25RA/ts
+#EXTINF:-1 xui-id="629965" tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="http://i.imgur.com/0CmeRFl.png" group-title="⚽PREMIERE ²",Premiere 6 HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W-ZLFZNV26OYH-LMgchwRo4/ts
+#EXTINF:-1 xui-id="629966" tvg-id="" tvg-name="PREMIERE 6 HD" tvg-logo="http://i.imgur.com/0CmeRFl.png" group-title="⚽PREMIERE ²",PREMIERE 6 HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W-xZDzqWpAQaqChsczpkqBE/ts
+#EXTINF:-1 xui-id="629967" tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="http://i.imgur.com/0CmeRFl.png" group-title="⚽PREMIERE ²",Premiere 6 HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WwN8OjpwkwtruoTwsBUWCiw/ts
+#EXTINF:-1 xui-id="629968" tvg-id="" tvg-name="Premiere 6 SD" tvg-logo="http://i.imgur.com/0CmeRFl.png" group-title="⚽PREMIERE ²",Premiere 6 SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WxyrAZzQpldCY3LPVj5Sfrc/ts
+#EXTINF:-1 xui-id="629969" tvg-id="" tvg-name="PREMIERE 6 SD" tvg-logo="http://i.imgur.com/0CmeRFl.png" group-title="⚽PREMIERE ²",PREMIERE 6 SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WzpBALQRs55xILeLU8TOQvk/ts
+#EXTINF:-1 xui-id="629970" tvg-id="" tvg-name="Premiere 6 SD" tvg-logo="http://i.imgur.com/0CmeRFl.png" group-title="⚽PREMIERE ²",Premiere 6 SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WxfGGgHiEPysXd9Y69sQgb4/ts
+#EXTINF:-1 xui-id="629971" tvg-id="" tvg-name="Premiere 7 FHD" tvg-logo="http://i.imgur.com/NU4OnME.png" group-title="⚽PREMIERE ²",Premiere 7 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W1FjmxIvHRXzvBrjeLtFSXw/ts
+#EXTINF:-1 xui-id="629972" tvg-id="" tvg-name="Premiere 7 FHD" tvg-logo="http://i.imgur.com/NU4OnME.png" group-title="⚽PREMIERE ²",Premiere 7 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W2AawLA9Ne_1PavMoL7MD-Q/ts
+#EXTINF:-1 xui-id="629973" tvg-id="" tvg-name="PREMIERE 7 FHD" tvg-logo="http://i.imgur.com/NU4OnME.png" group-title="⚽PREMIERE ²",PREMIERE 7 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W0VzerpQFO0PzayE2lwOWJw/ts
+#EXTINF:-1 xui-id="629974" tvg-id="" tvg-name="PREMIERE 7 FHD" tvg-logo="http://i.imgur.com/NU4OnME.png" group-title="⚽PREMIERE ²",PREMIERE 7 FHD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W-OmMa-aQsp6H3i7sBYUaPw/ts
+#EXTINF:-1 xui-id="629975" tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://i.imgur.com/NU4OnME.png" group-title="⚽PREMIERE ²",Premiere 7 HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WznFlksLTBAW4RDFsZuTEEc/ts
+#EXTINF:-1 xui-id="629976" tvg-id="" tvg-name="PREMIERE 7 HD" tvg-logo="http://i.imgur.com/NU4OnME.png" group-title="⚽PREMIERE ²",PREMIERE 7 HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WzXmZ1TIFdRGvNtHN5VJ2Ms/ts
+#EXTINF:-1 xui-id="629977" tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://i.imgur.com/NU4OnME.png" group-title="⚽PREMIERE ²",Premiere 7 HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WwLHCO-Fit9DEojoO6nLqRw/ts
+#EXTINF:-1 xui-id="629978" tvg-id="" tvg-name="Premiere 7 SD" tvg-logo="http://i.imgur.com/NU4OnME.png" group-title="⚽PREMIERE ²",Premiere 7 SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WzHrGA_v2I8bGPzRsm0X-fw/ts
+#EXTINF:-1 xui-id="629979" tvg-id="" tvg-name="PREMIERE 7 SD" tvg-logo="http://i.imgur.com/NU4OnME.png" group-title="⚽PREMIERE ²",PREMIERE 7 SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W03eTsS4WEVqVRdEDOTtPmg/ts
+#EXTINF:-1 xui-id="629980" tvg-id="" tvg-name="Premiere 7 SD" tvg-logo="http://i.imgur.com/NU4OnME.png" group-title="⚽PREMIERE ²",Premiere 7 SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WzL2ZM1lTpykXqz4Xc61AtA/ts
+#EXTINF:-1 xui-id="629981" tvg-id="" tvg-name="MOSAICO PREMIERE FHD H264" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",MOSAICO PREMIERE FHD H264
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W0D9rQvqjDPF1HDZYuonQfc/ts
+#EXTINF:-1 xui-id="629982" tvg-id="" tvg-name="PREMIERE 8 HD" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",PREMIERE 8 HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W8g78F-s_IWLqCBl-IWuxCs/ts
+#EXTINF:-1 xui-id="629983" tvg-id="" tvg-name="PREMIER 8 HD" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",PREMIER 8 HD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W5k6gaDIafXk3Rav_QbqDqs/ts
+#EXTINF:-1 xui-id="629984" tvg-id="" tvg-name="PREMIERE 8 SD" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",PREMIERE 8 SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W23DH-K0JfdWhddhUF9KfVQ/ts
+#EXTINF:-1 xui-id="629985" tvg-id="" tvg-name="Premiere 8 SD" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",Premiere 8 SD
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W4mnpa97zIisDSzy4necwG8/ts
 #EXTINF:-1 xui-id="208267" tvg-id="" tvg-name="Premiere Clubes FHD" tvg-logo="http://23.158.232.11:80/images/c4a77d98ce3a6e69ceb56e100101b413.png" group-title="Esportes",Premiere Clubes FHD
 http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFlteIM06XeKF9KyPkioDcKbJY/ts
 #EXTINF:-1 xui-id="207622" tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="http://23.158.232.11:80/images/18bb271fe2fe850308af43365c5cf5f0.png" group-title="Documentários",Discovery Channel HD
@@ -317,16 +434,7 @@ http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltQtdjTo8Gj-y3f_Y3ggFFFw/ts
 http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltbIGQ-WL6EwUKeesnDRh65c/ts
 #EXTINF:-1 xui-id="208227" tvg-id="" tvg-name="Amazon Prime Video - 05" tvg-logo="" group-title="CANAIS - PAYPERVIEW",Amazon Prime Video - 05
 http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltRfL8Dmq7TlrBm4Un7IVxDk/ts
-#EXTINF:-1 xui-id="208228" tvg-id="" tvg-name="Disney+ 1" tvg-logo="http://23.158.232.11:80/images/09434fe38280d498e0f0028c29758630.png" group-title="Infantil",Disney+ 1
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltUjFI71TLleTFCF2YRj8AGs/ts
-#EXTINF:-1 xui-id="208229" tvg-id="" tvg-name="Disney+ 2" tvg-logo="http://23.158.232.11:80/images/09434fe38280d498e0f0028c29758630.png" group-title="Infantil",Disney+ 2
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltZsctiQsf7h82Pjvwy6O4nk/ts
-#EXTINF:-1 xui-id="208230" tvg-id="" tvg-name="UFC FIGHT PASS 4" tvg-logo="" group-title="CANAIS - PAYPERVIEW",UFC FIGHT PASS 4
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltWYjRK9FYXH4R9kyggf_XHM/ts
-#EXTINF:-1 xui-id="208235" tvg-id="" tvg-name="Disney+ 4" tvg-logo="http://23.158.232.11:80/images/09434fe38280d498e0f0028c29758630.png" group-title="Infantil",Disney+ 4
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltQCGK4GpPS22xX9q7huSNkk/ts
-#EXTINF:-1 xui-id="208236" tvg-id="" tvg-name="Disney+ 3" tvg-logo="http://23.158.232.11:80/images/09434fe38280d498e0f0028c29758630.png" group-title="Infantil",Disney+ 3
-http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltWRgAA_1NOtFLT8HSTsBCzo/ts
+
 #EXTINF:-1 xui-id="207781" tvg-id="" tvg-name="Globo PR RPC TV Curitiba HD" tvg-logo="http://23.158.232.11:80/images/06a797d6e91c4e70b3b727c04bbc88c9.png" group-title="Abertos",Globo PR RPC TV Curitiba HD
 http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltdbNZccftQQL7vEkbeNqebI/ts
 #EXTINF:-1 xui-id="207782" tvg-id="" tvg-name="Globo PR RPC TV Foz do Iguacu HD" tvg-logo="http://23.158.232.11:80/images/06a797d6e91c4e70b3b727c04bbc88c9.png" group-title="Abertos",Globo PR RPC TV Foz do Iguacu HD
@@ -339,3 +447,43 @@ http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltbbWI26zhSnjCMyys_pb3aU/ts
 http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltbPdS6VUmeSw05NJsg_Jfc8/ts
 #EXTINF:-1 xui-id="207225" tvg-id="" tvg-name="Band PR Maringa HD" tvg-logo="" group-title="Abertos",Band PR Maringa HD
 http://23.158.232.11:80/play/Xew2JxKGV_Oaa7y2yzFltYTFG7O-U83YCK46FvoAz2w/ts
+#EXTINF:-1 xui-id="630109" tvg-id="" tvg-name="Disney+ 1" tvg-logo="http://i.imgur.com/RQIu4bA.jpeg" group-title="⚽PAY PER VIEW ²",Disney+ 1
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W0WPcKMl70fDHfR21J4X8T4/ts
+#EXTINF:-1 xui-id="630110" tvg-id="" tvg-name="Disney+ 2" tvg-logo="http://i.imgur.com/RQIu4bA.jpeg" group-title="⚽PAY PER VIEW ²",Disney+ 2
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wyb7VnJdh28yF_nmiPFiMTc/ts
+#EXTINF:-1 xui-id="630111" tvg-id="" tvg-name="Disney+ 4" tvg-logo="http://i.imgur.com/RQIu4bA.jpeg" group-title="⚽PAY PER VIEW ²",Disney+ 4
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WxkZs-SEsxW5qNk_ODxA6sM/ts
+#EXTINF:-1 xui-id="630112" tvg-id="" tvg-name="Disney+ 3" tvg-logo="http://i.imgur.com/RQIu4bA.jpeg" group-title="⚽PAY PER VIEW ²",Disney+ 3
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W3bH3B4JERvY6TgC6or8oyo/ts
+#EXTINF:-1 xui-id="630113" tvg-id="" tvg-name="DISNEY+ 1" tvg-logo="http://i.imgur.com/RQIu4bA.jpeg" group-title="⚽PAY PER VIEW ²",DISNEY+ 1
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W8BFaHoy5i1UxyWxKTP1-c8/ts
+#EXTINF:-1 xui-id="630114" tvg-id="" tvg-name="DISNEY+ 2" tvg-logo="http://i.imgur.com/RQIu4bA.jpeg" group-title="⚽PAY PER VIEW ²",DISNEY+ 2
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W7kwSlHVlZ2VWU-b94K_GEU/ts
+#EXTINF:-1 xui-id="630115" tvg-id="" tvg-name="DISNEY+ 3" tvg-logo="http://i.imgur.com/RQIu4bA.jpeg" group-title="⚽PAY PER VIEW ²",DISNEY+ 3
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W9N6FtmPcMU_Vek9UtEHe-Q/ts
+#EXTINF:-1 xui-id="630116" tvg-id="" tvg-name="DISNEY+ 4" tvg-logo="http://i.imgur.com/RQIu4bA.jpeg" group-title="⚽PAY PER VIEW ²",DISNEY+ 4
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W8BNk1rkeiIeeqUdGM76rVs/ts
+#EXTINF:-1 xui-id="630117" tvg-id="" tvg-name="DISNEY+ 5" tvg-logo="http://i.imgur.com/RQIu4bA.jpeg" group-title="⚽PAY PER VIEW ²",DISNEY+ 5
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W1LL8bYQRJ4rS0sBt-EJX_k/ts
+#EXTINF:-1 xui-id="630118" tvg-id="" tvg-name="DISNEY+ 6" tvg-logo="http://i.imgur.com/RQIu4bA.jpeg" group-title="⚽PAY PER VIEW ²",DISNEY+ 6
+http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W75FQMY--efFJcJ-9oJFnZ4/ts
+#EXTINF:-1 xui-id="852467" tvg-name="Um Filme Minecraft (2025)" tvg-logo="http://smt.appxc.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLGw_sklzU2p52yZ1x0On23qVQC_lOwkIemNmMu-mHjj0.jpg" group-title="❤️  PEDIDOS",Um Filme Minecraft (2025)
+http://smt.appxc.top:80/play/XJA9FV4D6xmEaWNeY6MPVv4dPTrgM0SDDLGqKAMO186IjnjnIc1dA-H0Zz-dedAA#.mp4
+#EXTINF:-1 xui-id="852468" tvg-name="825 Forest Road (2025)" tvg-logo="http://smt.appxc.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLh9Pavpb8flzv3eCkF77xgY6he3VWwSRLwZOqmJ814Lw.jpg" group-title="❤️  PEDIDOS",825 Forest Road (2025)
+http://smt.appxc.top:80/play/XJA9FV4D6xmEaWNeY6MPVs97QRJBRXYWJ2_ZWG9OpqO6sn4byov1mOFthvM23knM#.mp4
+#EXTINF:-1 xui-id="852469" tvg-name="A Última Ceia (2025)" tvg-logo="http://smt.appxc.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL9OSYUi2DVXfUPbJdN7MohxpSiCKVWGBrR9_4qigJo00.jpg" group-title="❤️  PEDIDOS",A Última Ceia (2025)
+http://smt.appxc.top:80/play/XJA9FV4D6xmEaWNeY6MPVuLQEJyCP9BJ9XqW0suz0cXFJBplQOJsaILRPGkAPL-f#.mp4
+#EXTINF:-1 xui-id="852470" tvg-name="Texano Por Acidente (2024)" tvg-logo="http://smt.appxc.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL4efk8hJH5j5HPxzvfzz9fm-ozUMfCfueXXCgYnlC8kY.jpg" group-title="❤️  PEDIDOS",Texano Por Acidente (2024)
+http://smt.appxc.top:80/play/XJA9FV4D6xmEaWNeY6MPVmuPnhyzKUDgBU8-VzFGkV9XBZvpKtUEU7RDvYhdWhGF#.mp4
+#EXTINF:-1 xui-id="852471" tvg-name="Algrafi (2024)" tvg-logo="http://smt.appxc.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLi4CKyBuYE0sjkNTn7obVVcg4YDek0r4MWl9yyWHybHY.jpg" group-title="❤️  PEDIDOS",Algrafi (2024)
+http://smt.appxc.top:80/play/XJA9FV4D6xmEaWNeY6MPVvdP_kIUmq_FzgS-s5XYd8JCXm-_FxthBgWbJcnHQ1VH#.mp4
+#EXTINF:-1 xui-id="852472" tvg-name="As Neves (2024)" tvg-logo="http://smt.appxc.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLUxcd2WddfBc_G_pO2OwrsoJectACuQxqQs_UtvlKapU.jpg" group-title="❤️  PEDIDOS",As Neves (2024)
+http://smt.appxc.top:80/play/XJA9FV4D6xmEaWNeY6MPVoy8b9VmM6xszWFMF3sIrIa82PFb3ydz1wBfj7rF0X2G#.mp4
+#EXTINF:-1 xui-id="852473" tvg-name="Babah (2024)" tvg-logo="http://smt.appxc.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLfcz5cSa-5K1kLmTBd_xT1POZSidhVoWdmgkpoSysKtw.jpg" group-title="❤️  PEDIDOS",Babah (2024)
+http://smt.appxc.top:80/play/XJA9FV4D6xmEaWNeY6MPVt7xkfoSqOKBWfehFP9o3CvvvxF6N4uAztgVGsImXNvl#.mp4
+#EXTINF:-1 xui-id="852474" tvg-name="DJ à Paisana (2025)" tvg-logo="http://smt.appxc.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnZ_rGys3SFwUhTO64QUQ2Ur8wH8LmpcA2qudXkVMuuU.jpg" group-title="❤️  PEDIDOS",DJ à Paisana (2025)
+http://smt.appxc.top:80/play/XJA9FV4D6xmEaWNeY6MPVlsLVdjG5Hm7AE4KfE-VZx-3XwWYAmr_VkZJBCI7EvNm#.mp4
+#EXTINF:-1 xui-id="852475" tvg-name="Desafios (2025)" tvg-logo="http://smt.appxc.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLLCKqqB7AmCFkzsKlAPwF1oNxyFS5DtKN53Hn4_3UzOI.jpg" group-title="❤️  PEDIDOS",Desafios (2025)
+http://smt.appxc.top:80/play/XJA9FV4D6xmEaWNeY6MPVuGjp-wup42-8F6ieBZEPD1d4ds-7KeYCDhAf7byXWnn#.mp4
+#EXTINF:-1 xui-id="852476" tvg-name="Hey Joe (2024)" tvg-logo="http://smt.appxc.top:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLl5p3hUcMCKWn1lY1CU3Y0LgO-Tds5pYvk5huQpi66x0.jpg" group-title="❤️  PEDIDOS",Hey Joe (2024)
+http://smt.appxc.top:80/play/XJA9FV4D6xmEaWNeY6MPVhDgUosXnOxs4-2quNGQrEYGcQOs8cpURnrkF2sMLbdY#.mp4
