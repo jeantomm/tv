@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 xui-id="629366" tvg-id="" tvg-name="TELECINE ACTION 4K" tvg-logo="http://i.imgur.com/kLLHmKz.png" group-title="⚡TELECINE ²",TELECINE ACTION 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W9izW14RPZHdo_NYSRunLqw/ts
+
 #EXTINF:-1 xui-id="629367" tvg-id="" tvg-name="TELECINE ACTION FHD (LEGENDADOS)" tvg-logo="http://i.imgur.com/kLLHmKz.png" group-title="⚡TELECINE ²",TELECINE ACTION FHD (LEGENDADOS)
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wx5_EJwSRyitZHVMw65Yjsg/ts
 #EXTINF:-1 xui-id="629368" tvg-id="" tvg-name="TELECINE ACTION FHD (OPÇÃO 1)" tvg-logo="http://i.imgur.com/kLLHmKz.png" group-title="⚡TELECINE ²",TELECINE ACTION FHD (OPÇÃO 1)
@@ -25,8 +24,7 @@ http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WxHRCWiQkKcV-1QyDrTRvHo/ts
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W_X-W8wr3KGn90FEtfe_CHc/ts
 #EXTINF:-1 xui-id="629378" tvg-id="" tvg-name="TELECINE ACTION SD (OPÇÃO 3)" tvg-logo="http://i.imgur.com/kLLHmKz.png" group-title="⚡TELECINE ²",TELECINE ACTION SD (OPÇÃO 3)
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W8XdTu8oOlw2grHOEewT9wE/ts
-#EXTINF:-1 xui-id="629379" tvg-id="" tvg-name="TELECINE CULT 4K" tvg-logo="http://i.imgur.com/9YLd7Uc.png" group-title="⚡TELECINE ²",TELECINE CULT 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W8tReHRf33-jY2iuxbP6MFk/ts
+
 #EXTINF:-1 xui-id="629380" tvg-id="" tvg-name="TELECINE CULT FHD (LEGENDADOS)" tvg-logo="http://i.imgur.com/9YLd7Uc.png" group-title="⚡TELECINE ²",TELECINE CULT FHD (LEGENDADOS)
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W3wB6ImCjoRGhw8Ksv3NKTY/ts
 #EXTINF:-1 xui-id="629381" tvg-id="" tvg-name="TELECINE CULT FHD DUALAUDIO" tvg-logo="http://i.imgur.com/9YLd7Uc.png" group-title="⚡TELECINE ²",TELECINE CULT FHD DUALAUDIO
@@ -51,8 +49,7 @@ http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WwwsMxXooHyMR70BgRp-8Ws/ts
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W-gIBf_L8OxlQfUK34MmZVk/ts
 #EXTINF:-1 xui-id="629391" tvg-id="" tvg-name="TELECINE CULT SD (OPÇÃO 3)" tvg-logo="http://i.imgur.com/9YLd7Uc.png" group-title="⚡TELECINE ²",TELECINE CULT SD (OPÇÃO 3)
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W4oFiYWMWPu39CckJ6qF0ew/ts
-#EXTINF:-1 xui-id="629392" tvg-id="" tvg-name="TELECINE FUN 4K" tvg-logo="http://i.imgur.com/HWL3HQI.png" group-title="⚡TELECINE ²",TELECINE FUN 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wyc_9onDzSh7Wnf4aT7NNzg/ts
+
 #EXTINF:-1 xui-id="629393" tvg-id="" tvg-name="TELECINE FUN FHD DUALAUDIO" tvg-logo="http://i.imgur.com/HWL3HQI.png" group-title="⚡TELECINE ²",TELECINE FUN FHD DUALAUDIO
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W1-WSIMBbVUysVvkQ9uvtb8/ts
 #EXTINF:-1 xui-id="629394" tvg-id="" tvg-name="TELECINE FUN FHD (LEGENDADOS)" tvg-logo="http://i.imgur.com/HWL3HQI.png" group-title="⚡TELECINE ²",TELECINE FUN FHD (LEGENDADOS)
@@ -77,8 +74,7 @@ http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W_S-5FUT7Un4C4aR4r_6bmg/ts
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W4JaAx0hWAYo_nLQJHW6oII/ts
 #EXTINF:-1 xui-id="629404" tvg-id="" tvg-name="TELECINE FUN SD (OPÇÃO 3)" tvg-logo="http://i.imgur.com/HWL3HQI.png" group-title="⚡TELECINE ²",TELECINE FUN SD (OPÇÃO 3)
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W7whUiUn63TP1Zut6bAOdHw/ts
-#EXTINF:-1 xui-id="629405" tvg-id="" tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://i.imgur.com/KuI1xkd.png" group-title="⚡TELECINE ²",TELECINE PIPOCA 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W0iWbd9JW6F_9A7tRZxMfBg/ts
+
 #EXTINF:-1 xui-id="629406" tvg-id="" tvg-name="TELECINE PIPOCA FHD (LEGENDADOS)" tvg-logo="http://i.imgur.com/KuI1xkd.png" group-title="⚡TELECINE ²",TELECINE PIPOCA FHD (LEGENDADOS)
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wx0asFbns4TG0xjOnCb2gzw/ts
 #EXTINF:-1 xui-id="629407" tvg-id="" tvg-name="TELECINE PIPOCA FHD (OPÇÃO 1)" tvg-logo="http://i.imgur.com/KuI1xkd.png" group-title="⚡TELECINE ²",TELECINE PIPOCA FHD (OPÇÃO 1)
@@ -103,8 +99,7 @@ http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W4HnTBFeuXvi7_CXzpwVdzw/ts
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W8DffUtMkwDluTrJ92YOtZ4/ts
 #EXTINF:-1 xui-id="629417" tvg-id="" tvg-name="TELECINE PIPOCA SD (OPÇÃO 3)" tvg-logo="http://i.imgur.com/KuI1xkd.png" group-title="⚡TELECINE ²",TELECINE PIPOCA SD (OPÇÃO 3)
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W-pMJo6m-rtPOCnL64fp_KI/ts
-#EXTINF:-1 xui-id="629418" tvg-id="" tvg-name="TELECINE PREMIUM 4K" tvg-logo="http://i.imgur.com/tx52G2s.png" group-title="⚡TELECINE ²",TELECINE PREMIUM 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wxe5atKckYTVs0UJO7t6X_o/ts
+
 #EXTINF:-1 xui-id="629419" tvg-id="" tvg-name="TELECINE PREMIUM FHD DUALAUDIO" tvg-logo="http://i.imgur.com/tx52G2s.png" group-title="⚡TELECINE ²",TELECINE PREMIUM FHD DUALAUDIO
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W_lNn2omgGRaiMXB9tWxBi8/ts
 #EXTINF:-1 xui-id="629420" tvg-id="" tvg-name="TELECINE PREMIUM FHD (LEGENDADOS)" tvg-logo="http://i.imgur.com/tx52G2s.png" group-title="⚡TELECINE ²",TELECINE PREMIUM FHD (LEGENDADOS)
@@ -155,8 +150,7 @@ http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W3mRnbtjhUMxDubnyAJTcxo/ts
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W9rIekPA6KQ-YdsqLtju7I8/ts
 #EXTINF:-1 xui-id="629443" tvg-id="" tvg-name="TELECINE TOUCH" tvg-logo="http://i.imgur.com/IvBuBQj.png" group-title="⚡TELECINE ²",TELECINE TOUCH
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W4pPjWUaUgH6BqdBk5wEXi4/ts
-#EXTINF:-1 xui-id="629607" tvg-id="" tvg-name="HBO PLUS 4K" tvg-logo="http://i.imgur.com/YkMxflg.png" group-title="⚡HBO ²",HBO PLUS 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W8ztpPhPdkLRPkUKJGSx3JE/ts
+
 #EXTINF:-1 xui-id="629608" tvg-id="" tvg-name="HBO PLUS FHD (LEGENDADOS)" tvg-logo="http://i.imgur.com/YkMxflg.png" group-title="⚡HBO ²",HBO PLUS FHD (LEGENDADOS)
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W3ClzeniJOznbIaVJaeTkgg/ts
 #EXTINF:-1 xui-id="629609" tvg-id="" tvg-name="HBO PLUS FHD DUALAUDIO" tvg-logo="http://i.imgur.com/YkMxflg.png" group-title="⚡HBO ²",HBO PLUS FHD DUALAUDIO
@@ -201,8 +195,7 @@ http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W73NsavYopaBrIZDGGXBomc/ts
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W1iOiZsNcIyJbyRD1m1yOQ0/ts
 #EXTINF:-1 xui-id="629629" tvg-id="" tvg-name="HBO 2 SD" tvg-logo="http://i.imgur.com/cOfI7CA.png" group-title="⚡HBO ²",HBO 2 SD
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W0X8e1qlxs_CdTBw4FHqZGU/ts
-#EXTINF:-1 xui-id="629630" tvg-id="" tvg-name="HBO FAMILY 4K" tvg-logo="http://i.imgur.com/en1IQom.png" group-title="⚡HBO ²",HBO FAMILY 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WxOzOOozP5_KtVTSguj7PEk/ts
+
 #EXTINF:-1 xui-id="629631" tvg-id="" tvg-name="HBO FAMILY FHD DUALAUDIO" tvg-logo="http://i.imgur.com/en1IQom.png" group-title="⚡HBO ²",HBO FAMILY FHD DUALAUDIO
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W7aUEOuvRVo1zPzrmxljSQg/ts
 #EXTINF:-1 xui-id="629632" tvg-id="" tvg-name="HBO FAMILY FHD" tvg-logo="http://i.imgur.com/en1IQom.png" group-title="⚡HBO ²",HBO FAMILY FHD
@@ -223,8 +216,7 @@ http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WzQw03XdjuELJRzAQdviiGI/ts
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W5-bEOkfM2KQq4of38zfMlo/ts
 #EXTINF:-1 xui-id="629640" tvg-id="" tvg-name="HBO FAMILY SD" tvg-logo="http://i.imgur.com/en1IQom.png" group-title="⚡HBO ²",HBO FAMILY SD
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W0n4LQiUHzoFS3jcNIeRvOk/ts
-#EXTINF:-1 xui-id="629641" tvg-id="" tvg-name="HBO MUNDI 4K" tvg-logo="http://i.imgur.com/tLXSX3d.png" group-title="⚡HBO ²",HBO MUNDI 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W1sjk5ZcyAZ8tV_bMdlnVJg/ts
+
 #EXTINF:-1 xui-id="629642" tvg-id="" tvg-name="HBO MUNDI FHD (LEGENDADOS)" tvg-logo="http://i.imgur.com/tLXSX3d.png" group-title="⚡HBO ²",HBO MUNDI FHD (LEGENDADOS)
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WzhxkvkEv-vJ3cldvvOpp9k/ts
 #EXTINF:-1 xui-id="629643" tvg-id="" tvg-name="HBO MUNDI FHD" tvg-logo="http://i.imgur.com/tLXSX3d.png" group-title="⚡HBO ²",HBO MUNDI FHD
@@ -249,8 +241,7 @@ http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W47m5Z0eUXDG-4jLHJepLd8/ts
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W-BI04MYPfaVosaGolIeWSE/ts
 #EXTINF:-1 xui-id="629653" tvg-id="" tvg-name="HBO MUNDI SD" tvg-logo="http://i.imgur.com/tLXSX3d.png" group-title="⚡HBO ²",HBO MUNDI SD
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W7OcUKLmmnqKPzA-bSJ-Ako/ts
-#EXTINF:-1 xui-id="629654" tvg-id="" tvg-name="HBO POP 4K" tvg-logo="http://i.imgur.com/oq5fXGY.png" group-title="⚡HBO ²",HBO POP 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W7pneveROcbQzECt6JrBs0c/ts
+
 #EXTINF:-1 xui-id="629655" tvg-id="" tvg-name="HBO POP FHD (LEGENDADOS)" tvg-logo="http://i.imgur.com/oq5fXGY.png" group-title="⚡HBO ²",HBO POP FHD (LEGENDADOS)
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wx7Mt0yZ5wvJSZqrulqIiQc/ts
 #EXTINF:-1 xui-id="629656" tvg-id="" tvg-name="HBO POP FHD DUALAUDIO" tvg-logo="http://i.imgur.com/oq5fXGY.png" group-title="⚡HBO ²",HBO POP FHD DUALAUDIO
@@ -275,8 +266,7 @@ http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W-M7L_MJbW_FEZp5bNNBt30/ts
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W0WybfAZf3PYj-p3a9xSJOY/ts
 #EXTINF:-1 xui-id="629666" tvg-id="" tvg-name="HBO POP SD" tvg-logo="http://i.imgur.com/oq5fXGY.png" group-title="⚡HBO ²",HBO POP SD
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W5Bx3IPJgfK8vAI1UwOcbSg/ts
-#EXTINF:-1 xui-id="629667" tvg-id="" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://i.imgur.com/W8tOcdE.png" group-title="⚡HBO ²",HBO SIGNATURE 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W2Sx5El2VFd_o8N3hn0Z1ao/ts
+
 #EXTINF:-1 xui-id="629668" tvg-id="" tvg-name="HBO SIGNATURE FHD DUALAUDIO" tvg-logo="http://i.imgur.com/W8tOcdE.png" group-title="⚡HBO ²",HBO SIGNATURE FHD DUALAUDIO
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W1YpguUa7-6iRHEg6v05uuQ/ts
 #EXTINF:-1 xui-id="629669" tvg-id="" tvg-name="HBO SIGNATURE FHD (LEGENDADOS)" tvg-logo="http://i.imgur.com/W8tOcdE.png" group-title="⚡HBO ²",HBO SIGNATURE FHD (LEGENDADOS)
@@ -301,8 +291,7 @@ http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W2LJ2sY_lAwz0OjHU68CX7M/ts
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W8dGXSuv2uSqe2qbf762b7g/ts
 #EXTINF:-1 xui-id="629679" tvg-id="" tvg-name="HBO SIGNATURE SD" tvg-logo="http://i.imgur.com/W8tOcdE.png" group-title="⚡HBO ²",HBO SIGNATURE SD
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W0OOtDNWGBYGSafK--iFLLQ/ts
-#EXTINF:-1 xui-id="629680" tvg-id="" tvg-name="HBO XTREME 4K" tvg-logo="http://i.imgur.com/sqhqVJH.png" group-title="⚡HBO ²",HBO XTREME 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W51_RDAFYb5S72iFQ30I-6Y/ts
+
 #EXTINF:-1 xui-id="629681" tvg-id="" tvg-name="HBO XTREME FHD (LEGENDADOS)" tvg-logo="http://i.imgur.com/sqhqVJH.png" group-title="⚡HBO ²",HBO XTREME FHD (LEGENDADOS)
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W0VwbgaeIR5MAWXzuOzsSCM/ts
 #EXTINF:-1 xui-id="629682" tvg-id="" tvg-name="HBO XTREME FHD" tvg-logo="http://i.imgur.com/sqhqVJH.png" group-title="⚡HBO ²",HBO XTREME FHD
@@ -327,8 +316,7 @@ http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W7NWrEnsA6utwaDBZPyj1w4/ts
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W3dGu53wX1SkEWa1NWIyS_0/ts
 #EXTINF:-1 xui-id="629692" tvg-id="" tvg-name="HBO XTREME SD" tvg-logo="http://i.imgur.com/sqhqVJH.png" group-title="⚡HBO ²",HBO XTREME SD
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WyG-NM3Q_5SLeZq8kBnwPvc/ts
-#EXTINF:-1 xui-id="629693" tvg-id="" tvg-name="HBO 4K" tvg-logo="http://i.imgur.com/fxbli3J.png" group-title="⚡HBO ²",HBO 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W2aeWL22l1Gg4JrVLK_TTQ0/ts
+
 #EXTINF:-1 xui-id="629694" tvg-id="" tvg-name="HBO FHD DUALAUDIO" tvg-logo="http://i.imgur.com/fxbli3J.png" group-title="⚡HBO ²",HBO FHD DUALAUDIO
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WyKScsHmD7XZ2xnOKORcQ30/ts
 #EXTINF:-1 xui-id="629695" tvg-id="" tvg-name="HBO FHD (LEGENDADOS)" tvg-logo="http://i.imgur.com/fxbli3J.png" group-title="⚡HBO ²",HBO FHD (LEGENDADOS)
@@ -483,8 +471,7 @@ http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WxJ0LPjQ2-JVZFCpX3Kat4Y/ts
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W9Ei4hhsSShajkYEyfzPXh0/ts
 #EXTINF:-1 xui-id="629770" tvg-id="" tvg-name="TNT NOVELAS SD" tvg-logo="http://i.imgur.com/7qc6RUN.png" group-title="⚡FILMES E SÉRIES ²",TNT NOVELAS SD
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W1hi8Ui86DfVRkO0Mqslgj0/ts
-#EXTINF:-1 xui-id="629771" tvg-id="" tvg-name="TNT 4K" tvg-logo="http://i.imgur.com/OXTusW6.png" group-title="⚡FILMES E SÉRIES ²",TNT 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W8V2u9XVrSxJeRqM9J-Mhn0/ts
+
 #EXTINF:-1 xui-id="629772" tvg-id="" tvg-name="TNT FHD" tvg-logo="http://i.imgur.com/OXTusW6.png" group-title="⚡FILMES E SÉRIES ²",TNT FHD
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W2q1zm-YW-JUCqPsGC_eKyg/ts
 #EXTINF:-1 xui-id="629773" tvg-id="" tvg-name="TNT FHD" tvg-logo="http://i.imgur.com/OXTusW6.png" group-title="⚡FILMES E SÉRIES ²",TNT FHD
@@ -757,8 +744,7 @@ http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W_Eu-uej5aUbrW3g-uYf06g/ts
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W75Md1ttLc72eoOJPQjqN_U/ts
 #EXTINF:-1 xui-id="629907" tvg-id="" tvg-name="MOSAICO PREMIERE HD" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",MOSAICO PREMIERE HD
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W9O6KxI5bIam7o5K6BzLBBc/ts
-#EXTINF:-1 xui-id="629908" tvg-id="" tvg-name="PREMIER CLUBE 4K" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",PREMIER CLUBE 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W8f-tlGKqNpALbChAhHifH0/ts
+
 #EXTINF:-1 xui-id="629909" tvg-id="" tvg-name="Premiere Clubes FHD" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",Premiere Clubes FHD
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WzEEOOGS3NlzuwHN5nA2QRs/ts
 #EXTINF:-1 xui-id="629910" tvg-id="" tvg-name="PREMIERE CLUBES FHD" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",PREMIERE CLUBES FHD
@@ -913,8 +899,7 @@ http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W5k6gaDIafXk3Rav_QbqDqs/ts
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W23DH-K0JfdWhddhUF9KfVQ/ts
 #EXTINF:-1 xui-id="629985" tvg-id="" tvg-name="Premiere 8 SD" tvg-logo="http://i.imgur.com/ZWjTOJs.png" group-title="⚽PREMIERE ²",Premiere 8 SD
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W4mnpa97zIisDSzy4necwG8/ts
-#EXTINF:-1 xui-id="629986" tvg-id="" tvg-name="SPORTV 4K" tvg-logo="http://i.imgur.com/dwT6z0F.png" group-title="⚽SPORTV ²",SPORTV 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wz5RPe3AP4RmZ0K0l_KwVSo/ts
+
 #EXTINF:-1 xui-id="629987" tvg-id="" tvg-name="SPORTV FHD" tvg-logo="http://i.imgur.com/dwT6z0F.png" group-title="⚽SPORTV ²",SPORTV FHD
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W9AyzzXccTaKOz-ephLTkO4/ts
 #EXTINF:-1 xui-id="629988" tvg-id="" tvg-name="SPORTV FHD" tvg-logo="http://i.imgur.com/dwT6z0F.png" group-title="⚽SPORTV ²",SPORTV FHD
@@ -1293,14 +1278,7 @@ http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WxvzLbyfgvo2PVxTO2_h37k/ts
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W21qBx_-QtW7SjgQA370LCg/ts
 #EXTINF:-1 xui-id="630175" tvg-id="" tvg-name="DSPORTS" tvg-logo="http://i.imgur.com/RQIu4bA.jpeg" group-title="⚽PAY PER VIEW ²",DSPORTS
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W2XzOjm8c5DgC7ZR9I0S_A4/ts
-#EXTINF:-1 xui-id="630204" tvg-id="" tvg-name="ESPN 4K" tvg-logo="http://i.imgur.com/SZA1eW8.png" group-title="⚽ESPN ²",ESPN 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W-yfbQZXJPyQcP9m5imifdc/ts
-#EXTINF:-1 xui-id="630205" tvg-id="" tvg-name="ESPN 4K" tvg-logo="http://i.imgur.com/SZA1eW8.png" group-title="⚽ESPN ²",ESPN 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W0UDEru-FibW0NsmiLMFS2U/ts
-#EXTINF:-1 xui-id="630206" tvg-id="" tvg-name="ESPN 4K" tvg-logo="http://i.imgur.com/SZA1eW8.png" group-title="⚽ESPN ²",ESPN 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W5jVFxQgw-wz6ybourfz3GM/ts
-#EXTINF:-1 xui-id="630207" tvg-id="" tvg-name="ESPN Extra 4K" tvg-logo="http://i.imgur.com/SZA1eW8.png" group-title="⚽ESPN ²",ESPN Extra 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W-KQEzBgBVBfE7iIIETpJiA/ts
+
 #EXTINF:-1 xui-id="630208" tvg-id="" tvg-name="ESPN EXTRA FHD" tvg-logo="http://i.imgur.com/SZA1eW8.png" group-title="⚽ESPN ²",ESPN EXTRA FHD
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W6uWvLSaHg4NaVW1pue0uUc/ts
 #EXTINF:-1 xui-id="630209" tvg-id="" tvg-name="ESPN Extra FHD" tvg-logo="http://i.imgur.com/SZA1eW8.png" group-title="⚽ESPN ²",ESPN Extra FHD
@@ -1361,8 +1339,7 @@ http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W_JE8UXKlFPA-J_mOgzHEhw/ts
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W1dbHjj7AoIi5SVf_fnE4gc/ts
 #EXTINF:-1 xui-id="630237" tvg-id="" tvg-name="ESPN 2 SD" tvg-logo="http://i.imgur.com/JPtqKo6.png" group-title="⚽ESPN ²",ESPN 2 SD
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WwB58O7GQ4Pr9v_ZbIfK5Tw/ts
-#EXTINF:-1 xui-id="630238" tvg-id="" tvg-name="ESPN 3 4K" tvg-logo="http://i.imgur.com/Zdv1mIu.png" group-title="⚽ESPN ²",ESPN 3 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W2-pGAwAx9vViW9ggLOO2Hg/ts
+
 #EXTINF:-1 xui-id="630239" tvg-id="" tvg-name="ESPN 3 FHD" tvg-logo="http://i.imgur.com/Zdv1mIu.png" group-title="⚽ESPN ²",ESPN 3 FHD
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WxDrhBB0cHGsG8jVlkjlMNw/ts
 #EXTINF:-1 xui-id="630240" tvg-id="" tvg-name="ESPN 3 FHD" tvg-logo="http://i.imgur.com/Zdv1mIu.png" group-title="⚽ESPN ²",ESPN 3 FHD
@@ -1385,8 +1362,7 @@ http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W_iQXE52CnZRerc43R7mYhY/ts
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W-zlmBCQc87ug4a1SQt0j6s/ts
 #EXTINF:-1 xui-id="630249" tvg-id="" tvg-name="ESPN 3 SD" tvg-logo="http://i.imgur.com/Zdv1mIu.png" group-title="⚽ESPN ²",ESPN 3 SD
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W9JduZvUM-OMzFx5seVXy1g/ts
-#EXTINF:-1 xui-id="630250" tvg-id="" tvg-name="ESPN 4 4K" tvg-logo="http://i.imgur.com/SZA1eW8.png" group-title="⚽ESPN ²",ESPN 4 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W8KGOvwm59BGnV9FW3tQkIA/ts
+
 #EXTINF:-1 xui-id="630251" tvg-id="" tvg-name="ESPN 4 FHD" tvg-logo="http://i.imgur.com/SZA1eW8.png" group-title="⚽ESPN ²",ESPN 4 FHD
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W1TQJZ8GPOZSggif6BrnS38/ts
 #EXTINF:-1 xui-id="630252" tvg-id="" tvg-name="ESPN 4 FHD" tvg-logo="http://i.imgur.com/SZA1eW8.png" group-title="⚽ESPN ²",ESPN 4 FHD
@@ -1441,218 +1417,7 @@ http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W9rLCDbTHt0imqNJr32EaOo/ts
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WxcV6Hu7EvywLJhHBBJ29LE/ts
 #EXTINF:-1 xui-id="630277" tvg-id="" tvg-name="ESPN 6 SD" tvg-logo="http://i.imgur.com/HIpE4FA.png" group-title="⚽ESPN ²",ESPN 6 SD
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W0krYzdzWaDGdbv2toHV1DA/ts
-#EXTINF:-1 xui-id="1195143" tvg-id="" tvg-name="SPORTV 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",SPORTV 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W3SzZpIEPapkFj3lNt-4KWhG-cOTTxHQdGKQMDAmbQAD/ts
-#EXTINF:-1 xui-id="1195144" tvg-id="" tvg-name="ESPN 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",ESPN 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WzWg3ZjiYTu-b78fasWFQ2nxhtUGanyGOvW777dVLi2i/ts
-#EXTINF:-1 xui-id="1195145" tvg-id="" tvg-name="BAND RS 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",BAND RS 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WxpCHgj2yFuLUUNCIdkndYDVDZlBBSVqT_MDek5bVyiz/ts
-#EXTINF:-1 xui-id="1195146" tvg-id="" tvg-name="PREMIER CLUBE 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",PREMIER CLUBE 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W4QkhFCV2P4Ed95xaG2e9KglgzBFOE9qWTmmgUDZEXKs/ts
-#EXTINF:-1 xui-id="1195147" tvg-id="" tvg-name="RBS 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",RBS 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W6RXKUbY44xuv9sgZNne2Hm3dA208wIjYgOgzTvBhU1y/ts
-#EXTINF:-1 xui-id="1195148" tvg-id="" tvg-name="TNT 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",TNT 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W3r51RKqWE8-n98qLEMpv4h5ZIh0qPhj01yoSDxhp-4V/ts
-#EXTINF:-1 xui-id="1195149" tvg-id="" tvg-name="ESPN 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",ESPN 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WyQ3w1ZzGTJp3PtC2WBoAa0_aAxTNh0CsFbDGOazH7nn/ts
-#EXTINF:-1 xui-id="1195150" tvg-id="" tvg-name="A&E 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",A&E 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WwAzqVRUMLJ9RY_4E-l_dfrGEflnJvmrGH2AuL2NkwQx/ts
-#EXTINF:-1 xui-id="1195151" tvg-id="" tvg-name="Adult Swim 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Adult Swim 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W7mmfovjm9RCZB3x1wJNPI4Pnxem4biKtKCLrYnLl38V/ts
-#EXTINF:-1 xui-id="1195152" tvg-id="" tvg-name="Agro+ 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Agro+ 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W_T31_0RqmfMpUhoTBnRHP1o6HacVvipSF-QY2PouIJS/ts
-#EXTINF:-1 xui-id="1195153" tvg-id="" tvg-name="AMC 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",AMC 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W6q5czPr0rNseEweZOHsmONfKE9IC90ZpAjhZxGaI7gp/ts
-#EXTINF:-1 xui-id="1195154" tvg-id="" tvg-name="Animal Planet 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Animal Planet 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wzh5QNS0s7RaJpCHlM6feKmZE88CSdYzCeaI7rcerKJ8/ts
-#EXTINF:-1 xui-id="1195155" tvg-id="" tvg-name="Arte 1 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Arte 1 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W7q7uF3ATHUdu2pBUsGB0-9moZNFbzRAVZjMBXcf-Uqt/ts
-#EXTINF:-1 xui-id="1195156" tvg-id="" tvg-name="AXN 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",AXN 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wxpbegz8s7UeVbOJT1M5Q5NeSO0_tRuyXKmLvxFkGcEt/ts
-#EXTINF:-1 xui-id="1195157" tvg-id="" tvg-name="Band News 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Band News 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WwIYdLKKPqwNIZPaF7fXlVx4O0wC0wyNM4pDLZ02jRaY/ts
-#EXTINF:-1 xui-id="1195158" tvg-id="" tvg-name="Band SP 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Band SP 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W9cUTcwbUT907_en27FAq0DLz_5F2nSLiUOONr5OORe4/ts
-#EXTINF:-1 xui-id="1195159" tvg-id="" tvg-name="Band Sports 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Band Sports 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W5BB22zThMZpI8HA-tbuDi8jpRUNLz6KLSTTS7-JF55v/ts
-#EXTINF:-1 xui-id="1195160" tvg-id="" tvg-name="BIS 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",BIS 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W1q4cCo7mEeYvv1Gz7a8R98SBa4iw-VvM7tkX-NqJLvU/ts
-#EXTINF:-1 xui-id="1195161" tvg-id="" tvg-name="Canal Brasil 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Canal Brasil 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WxvPUNdS-cd1UF4nD_ip9-qgowj5mViIMQqAshN3KDzp/ts
-#EXTINF:-1 xui-id="1195162" tvg-id="" tvg-name="Canal do Boi 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Canal do Boi 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W4u3WzUoa8Tq9986MG_GNnooQWzTLZr4cjV5P3qzPXsm/ts
-#EXTINF:-1 xui-id="1195163" tvg-id="" tvg-name="Canal Sony 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Canal Sony 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WwvJeFu1udwhgpdQU_ZF8inbWwLll_u2rZWk8H6IKY8g/ts
-#EXTINF:-1 xui-id="1195164" tvg-id="" tvg-name="Cartoon Network 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Cartoon Network 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WwqkYODJX1RFCuhc-S2j6XO3GRdehKq6AwsP7fzQuW45/ts
-#EXTINF:-1 xui-id="1195165" tvg-id="" tvg-name="Cartoonito 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Cartoonito 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wy7e2eyaInWqnh7Ot5UGt0jxWlE3ButBzBxiiEkb8zAJ/ts
-#EXTINF:-1 xui-id="1195166" tvg-id="" tvg-name="Cinemax 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Cinemax 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W6ByevFBJNusZ2NMoFVsfoNgLkHuv08f2qkQXVB1S_Hg/ts
-#EXTINF:-1 xui-id="1195167" tvg-id="" tvg-name="CNN - Brasil 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",CNN - Brasil 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W21giRwazEQcXRjxA_NyJG4TnNa07tNYksHWyLP4Y_xl/ts
-#EXTINF:-1 xui-id="1195168" tvg-id="" tvg-name="Combate 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Combate 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WyUbSL7UTVMBcCn6bN_B_1A8bckTWcUfJ_YvG7cQb2g3/ts
-#EXTINF:-1 xui-id="1195169" tvg-id="" tvg-name="Comedy Central 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Comedy Central 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W9yqtTWL5ZXamfbV8HHEQae9pzcvRfj403uUE2KH9cdN/ts
-#EXTINF:-1 xui-id="1195170" tvg-id="" tvg-name="Curta! 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Curta! 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W2fKaP9vEq3CSr_am54g7UKpmkaSky9aHA8DZExK6N6s/ts
-#EXTINF:-1 xui-id="1195171" tvg-id="" tvg-name="Discovery Channel 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Discovery Channel 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W5RmzFRSBxXJzg7FLoyAb8Y6yCSujQnk6thCBCT7fRJT/ts
-#EXTINF:-1 xui-id="1195172" tvg-id="" tvg-name="Discovery H&H 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Discovery H&H 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W1DHFpzm3UhjYnAI1eUcEdts0EH9hGPH4jHDYab7yBPJ/ts
-#EXTINF:-1 xui-id="1195173" tvg-id="" tvg-name="Discovery Kids 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Discovery Kids 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W6GYcXcngDet_i0t7lHlgRdfUTHkuxqEm_uQg8jWbAVP/ts
-#EXTINF:-1 xui-id="1195174" tvg-id="" tvg-name="Discovery Science 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Discovery Science 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WzewgZCnanh_wxEIWgAxBbQe6iAzM7u_Vl1ULq0GL2YY/ts
-#EXTINF:-1 xui-id="1195175" tvg-id="" tvg-name="Discovery Theater 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Discovery Theater 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wx7d3IPb20tLirJmArDxXE_MsZo1XpbiYpagAaDEgw42/ts
-#EXTINF:-1 xui-id="1195176" tvg-id="" tvg-name="Discovery Turbo 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Discovery Turbo 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W1YbY304O0MiYUvU0n6CubKPusESVxS8M3Mba9Bknp4y/ts
-#EXTINF:-1 xui-id="1195177" tvg-id="" tvg-name="Discovery World 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Discovery World 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Ww9WtNHGZqfDIGSI70V-tgCLLEopDawyrf3_2RRxRdeA/ts
-#EXTINF:-1 xui-id="1195178" tvg-id="" tvg-name="Disney Channel 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Disney Channel 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W3qqZZADl9bUvbjEGNY9VUPj5UoVAeyP0cscefLN2chD/ts
-#EXTINF:-1 xui-id="1195179" tvg-id="" tvg-name="E! 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",E! 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wxb2VvzT4dzgdEt5Taw0102xjiMs-3FUYwN93yFJS82x/ts
-#EXTINF:-1 xui-id="1195180" tvg-id="" tvg-name="ESPN 2 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",ESPN 2 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W-ySr1dehvw02rQhXODJU71rbYXgv8_FxABz-padoo1s/ts
-#EXTINF:-1 xui-id="1195181" tvg-id="" tvg-name="ESPN 3 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",ESPN 3 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W7mVFRCTJ5nNbVZHjH5AOl5AMOOlnBoeTLB2WrVVFFdf/ts
-#EXTINF:-1 xui-id="1195182" tvg-id="" tvg-name="ESPN 4 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",ESPN 4 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W_I1njk1Ya3_LFU2QAI4WQMNmeBE89a0trsus4vFQrDW/ts
-#EXTINF:-1 xui-id="1195183" tvg-id="" tvg-name="ESPN 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",ESPN 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Ww_sDiWu0nFxaRTGr6dVLIMZEFMOjLj3cX3f8LS1DadV/ts
-#EXTINF:-1 xui-id="1195184" tvg-id="" tvg-name="ESPN Extra 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",ESPN Extra 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W7bKUGBaNMkSUkzM2nXAcRuCf_MU8VPl-IzPBabrgHLQ/ts
-#EXTINF:-1 xui-id="1195185" tvg-id="" tvg-name="Fashion TV 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Fashion TV 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W4CQleImnHRf9YI4721PhxpEgENRZ6aYEvcjd3y9C4Ah/ts
-#EXTINF:-1 xui-id="1195186" tvg-id="" tvg-name="Fish TV 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Fish TV 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W8T2F28b8Ri1egmU7IK6Q4OWfcP62NoYk7sGZygexLj-/ts
-#EXTINF:-1 xui-id="1195187" tvg-id="" tvg-name="Food Network 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Food Network 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W1VW9n1SZ02d5Oi08lyDJKgyfTn7E_Ck-KcPcaW-BjkX/ts
-#EXTINF:-1 xui-id="1195188" tvg-id="" tvg-name="HBO 2 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",HBO 2 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WwNZb_EmOBn8bGsNzNgO8ayDzjH4fohmhbgNmcSeq3aC/ts
-#EXTINF:-1 xui-id="1195189" tvg-id="" tvg-name="HBO 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",HBO 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WxAl05FpfrilZZ_MofRiXJfRfVJnTMgHH4LQgZakVp1g/ts
-#EXTINF:-1 xui-id="1195190" tvg-id="" tvg-name="HBO Family 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",HBO Family 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W3b_2X34PuDKLh6XncROlVzw496ndcuZdtW3epGQg8bX/ts
-#EXTINF:-1 xui-id="1195191" tvg-id="" tvg-name="HBO Mundi 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",HBO Mundi 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W4Z8L7VMkBxfIPHRwFfwUtiDJejklwFaiy1o8JH-b1YB/ts
-#EXTINF:-1 xui-id="1195192" tvg-id="" tvg-name="HBO POP 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",HBO POP 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W4DlBvVLy-bjynPgPF0uXK8DQNJCaenm1-CWaaIsa-uU/ts
-#EXTINF:-1 xui-id="1195193" tvg-id="" tvg-name="HBO Signature 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",HBO Signature 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W-MUv6694lP1RhfpVGfmZSYgDqbyl4d6ZLU1WQIxKG4J/ts
-#EXTINF:-1 xui-id="1195194" tvg-id="" tvg-name="HBO Xtreme 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",HBO Xtreme 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W6KBdLKwoK7-BLK_O-VeKVdB2lYigDfuTtjRk7HAjlAd/ts
-#EXTINF:-1 xui-id="1195195" tvg-id="" tvg-name="HBO+ 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",HBO+ 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W72g5xUpeRqsYXZkJYXNnVId6h2tbHE8Ne2CdVzQiXJJ/ts
-#EXTINF:-1 xui-id="1195196" tvg-id="" tvg-name="Premiere 2 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Premiere 2 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wwy4CUIQ0Yxk2zE_w5V6lB6BRfYzC5EZi-mY53gSV_a-/ts
-#EXTINF:-1 xui-id="1195197" tvg-id="" tvg-name="Premiere 3 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Premiere 3 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W7H-k-xWOg4UhkFjP_cM0qxOpLrh8IOSh1LiDX7uSeMN/ts
-#EXTINF:-1 xui-id="1195198" tvg-id="" tvg-name="Premiere 4 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Premiere 4 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W89QKTvkTbEw3wNX4aaLMZfYF7tOfT-bJQD7E_pWuH0t/ts
-#EXTINF:-1 xui-id="1195199" tvg-id="" tvg-name="Premiere 5 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Premiere 5 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WxzfO5_uf4304qlK7XC49DxhwEhB9J46ompkjoRG3Eqj/ts
-#EXTINF:-1 xui-id="1195200" tvg-id="" tvg-name="Premiere 6 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Premiere 6 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W0plqcIKfZwXoU0zIJhG0iIvPoWzybqGFrFj26UwdjGM/ts
-#EXTINF:-1 xui-id="1195201" tvg-id="" tvg-name="Premiere 7 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Premiere 7 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W6asUxOxRm0WlaKiPiwbe7l1GhWx92hGIvk-Kwopil6L/ts
-#EXTINF:-1 xui-id="1195202" tvg-id="" tvg-name="Premiere Clubes 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Premiere Clubes 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W4YTglFEDDsoyUYY1qRGsZninJ1P8VSHzwufVjJ9f8qX/ts
-#EXTINF:-1 xui-id="1195203" tvg-id="" tvg-name="Telecine Action 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Telecine Action 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WwqXFl9THO2DsA2vaa-mrUUGIyEsPeB-mS5DQeuxH5V1/ts
-#EXTINF:-1 xui-id="1195204" tvg-id="" tvg-name="Telecine Cult 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Telecine Cult 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W_3eoefSbG0czvCyjkP76_BnALgk-meSu9QqkaIl79dM/ts
-#EXTINF:-1 xui-id="1195205" tvg-id="" tvg-name="Telecine Fun 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Telecine Fun 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wy3_HTkpfDJSqVFXb_NFrK3R9hMA5qmDvzQ_WRg7X5sS/ts
-#EXTINF:-1 xui-id="1195206" tvg-id="" tvg-name="Telecine Pipoca 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Telecine Pipoca 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W8_Ry79VhDdJf_PLU29FK749VUT-YH1_58BdLrxuyO4V/ts
-#EXTINF:-1 xui-id="1195207" tvg-id="" tvg-name="Telecine Premium 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Telecine Premium 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W0rMWWCsfMq3rUek4cGyh5UUVSUSrO58MtHSsp9CMq7i/ts
-#EXTINF:-1 xui-id="1195208" tvg-id="" tvg-name="Telecine Touch 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Telecine Touch 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W44f-V5MsX9hucgHVGHr_dacn9QKZd68L6n8xvv_EoE5/ts
-#EXTINF:-1 xui-id="1195209" tvg-id="" tvg-name="A&E 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",A&E 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WzCzWzcQbgixxsa7cIfzNBmDwFHuETQRF35L3GLxM2fH/ts
-#EXTINF:-1 xui-id="1195210" tvg-id="" tvg-name="Animal Planet 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Animal Planet 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W8n4PQu_wRXdiXUDrbOuqi648ej7oFa6br4PAzWXDsnX/ts
-#EXTINF:-1 xui-id="1195211" tvg-id="" tvg-name="AXN 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",AXN 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W9J4LtpEZl3Jh-Nlb89I7p9lAS1WEe2faDxjUbJDJEpH/ts
-#EXTINF:-1 xui-id="1195212" tvg-id="" tvg-name="Band SP 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Band SP 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W55ljJN0U0vjd0D2En9enJ80he8y5uzN7GaHrHenCH5X/ts
-#EXTINF:-1 xui-id="1195213" tvg-id="" tvg-name="Band Sports 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Band Sports 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W6eF6R9R3a8kQtQsEiCA_C_0mdyazInYKPCRPQnjOCmG/ts
-#EXTINF:-1 xui-id="1195214" tvg-id="" tvg-name="Cartoon Network 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Cartoon Network 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W0KHdaB7Fvvi0MSKjO8JWHelDOCoeH4wx3gv62VpaNAG/ts
-#EXTINF:-1 xui-id="1195215" tvg-id="" tvg-name="CNN Brasil 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",CNN Brasil 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W_fDAc34kpvYAj8LME03YNwC9muV73WhXDerEHbwWlnN/ts
-#EXTINF:-1 xui-id="1195216" tvg-id="" tvg-name="Combate 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Combate 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W_NpntkDf4BH-_gkQSWZ_vkayeRAocaf_b54zBmg4og7/ts
-#EXTINF:-1 xui-id="1195217" tvg-id="" tvg-name="Comedy Central 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Comedy Central 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wwl-dy9dzfYfF11qtOTu8cT2As9IPLnDUHOASyHwWvww/ts
-#EXTINF:-1 xui-id="1195218" tvg-id="" tvg-name="Discovery Channel 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Discovery Channel 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W1mdDM9-3dGw9GoZq9GG78a7KqdrKkc_hRcoDzf61FtS/ts
-#EXTINF:-1 xui-id="1195219" tvg-id="" tvg-name="Discovery H&H 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Discovery H&H 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wy4uMp_zOQl1Iqgt-jNru4LsdtW93hmZP-_zTrNjfWrh/ts
-#EXTINF:-1 xui-id="1195220" tvg-id="" tvg-name="Discovery Turbo 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Discovery Turbo 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W00XyGYzHoBLDSxfSu6yeNmUxSqgMjlLIuzbJoepyTxu/ts
-#EXTINF:-1 xui-id="1195221" tvg-id="" tvg-name="ESPN 4 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",ESPN 4 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W6wf0-gnZXmnwWoAbOsjdbP4Po0D7NENl_jVa9YpS8U8/ts
-#EXTINF:-1 xui-id="1195222" tvg-id="" tvg-name="ESPN 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",ESPN 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W_NieLp0lB4h3ZCDevgscGAJ_CNDtSHYqaOy6zb5Vkh9/ts
-#EXTINF:-1 xui-id="1195223" tvg-id="" tvg-name="Globo BA 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Globo BA 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WyQO7DNZcOC6EpAmcgJVYzE25UIHXZD1AY1jmpgblaPI/ts
-#EXTINF:-1 xui-id="1195224" tvg-id="" tvg-name="Globo DF 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Globo DF 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W5Q_pM_rIKwqS9D1pWunJ5EBOnUSiSvwCM3VZ6s1JC6h/ts
-#EXTINF:-1 xui-id="1195225" tvg-id="" tvg-name="Globo MG 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Globo MG 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WwiF3u3bJI5sHyDGy9OiHuPUZeou1Q5SkfeSB2YKSPeN/ts
-#EXTINF:-1 xui-id="1195226" tvg-id="" tvg-name="Globo News 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Globo News 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wy4uYRmSNxKe1MdYc1ZOWnk8ynwpN2zkVLFzvp9CjRJL/ts
-#EXTINF:-1 xui-id="1195227" tvg-id="" tvg-name="Globo RJ 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Globo RJ 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W5uWJnojaTWFgnlmrhnQNZXEN6XNG_t-jRF1FR8ps3FF/ts
-#EXTINF:-1 xui-id="1195228" tvg-id="" tvg-name="Globo SP 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Globo SP 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W1q4WEbU7-RsP9fztd_f4gyhy3MsbOt1-3RYb5rzRYKu/ts
-#EXTINF:-1 xui-id="1195229" tvg-id="" tvg-name="GNT 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",GNT 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W6WQ4PLvb1ERDOOe6jVk7ZKUvxp0sdf71C8aegXPeHiQ/ts
-#EXTINF:-1 xui-id="1195230" tvg-id="" tvg-name="HBO 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",HBO 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wzc_g6MASicikRq-T8CA3KpWbgrA5e3CZ-qSKwPjeGbU/ts
-#EXTINF:-1 xui-id="1195231" tvg-id="" tvg-name="Jovem Pan News 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Jovem Pan News 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W3iQcwEOQkKy4TA2UI8rJ3lkFgy06yCy_XQlUa6Eqze6/ts
-#EXTINF:-1 xui-id="1195232" tvg-id="" tvg-name="Love Nature 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Love Nature 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W-gxY7t_qp3SfS8NnVG-BeogEIDQHIC2vcddObs-5FY0/ts
-#EXTINF:-1 xui-id="1195233" tvg-id="" tvg-name="Megapix 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Megapix 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WwQRW0e0K54jaun6eJXANB4oOiL8HqyTnEQdyL5fpLa2/ts
-#EXTINF:-1 xui-id="1195234" tvg-id="" tvg-name="Multishow 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Multishow 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wz4Ridzm0pjH1DRr0xClGkW9v49OFgsFtso3RXvQVyP7/ts
-#EXTINF:-1 xui-id="1195235" tvg-id="" tvg-name="Premiere Clubes 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Premiere Clubes 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W6lmomvbTZfbB9FuX-fl8Ce0NG7XkplzvOZiDxEBggbI/ts
-#EXTINF:-1 xui-id="1195236" tvg-id="" tvg-name="Record SP 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Record SP 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wyy5p59uKJoy0MZgr8Qy1BcucDis1rGPpK1V2UtkL4WX/ts
-#EXTINF:-1 xui-id="1195237" tvg-id="" tvg-name="Rede TV! 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Rede TV! 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6Wy5DIF1YA0AlreQcxvWgGzwKmk2Iqpj6G4ytw5issPYx/ts
-#EXTINF:-1 xui-id="1195238" tvg-id="" tvg-name="SBT SP 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",SBT SP 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WxKKosYQtyQN1LpcH-VcXGExdmWP0016DFl76GHsD9RB/ts
-#EXTINF:-1 xui-id="1195239" tvg-id="" tvg-name="SporTV 2 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",SporTV 2 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W4eaxSHedrLrg0Aaa5PhVC64SIAnsMRA6-DCCR2owqMG/ts
-#EXTINF:-1 xui-id="1195240" tvg-id="" tvg-name="SporTV 3 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",SporTV 3 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W3lmgobd-MAz-i0ZDRVvTMG1C7-DhMnJsNIiVbAiHbOK/ts
-#EXTINF:-1 xui-id="1195241" tvg-id="" tvg-name="SporTV 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",SporTV 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W34zXTVFsDWaBOR7o6wtsmLZwxCr2oTwRJFzjtH2He84/ts
-#EXTINF:-1 xui-id="1195242" tvg-id="" tvg-name="Telecine  Action 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Telecine  Action 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W38myGLxt7lce7j30Gh4KA_eNpkw9N2qWVDLxw70xDF5/ts
-#EXTINF:-1 xui-id="1195243" tvg-id="" tvg-name="Telecine Pipoca 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Telecine Pipoca 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W8DP70c0Hha1sTb9R8Qt6X2OA6knAA0tnnaenBEFMQvU/ts
-#EXTINF:-1 xui-id="1195244" tvg-id="" tvg-name="Telecine Premium 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Telecine Premium 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W2DzXwZXeHwZz8uG96vd_BmK5yOBppafqYK3PznWrl3H/ts
-#EXTINF:-1 xui-id="1195245" tvg-id="" tvg-name="TNT 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",TNT 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W-BZ7UM68vfy1AluDoY4H5kUeqRVSvs4RdssqsvYRKBC/ts
-#EXTINF:-1 xui-id="1195246" tvg-id="" tvg-name="TNT Series 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",TNT Series 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6WzFvDalbzR2yiqDLvQtn9AQOfu1y3jZtzm_2XISkxyF7/ts
-#EXTINF:-1 xui-id="1195247" tvg-id="" tvg-name="Universal 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Universal 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W1jEuxkJhYDCRNNCLDmVzQdVu6NHaCuP_3cNxGQ_1qND/ts
-#EXTINF:-1 xui-id="1195248" tvg-id="" tvg-name="Viva 4K" tvg-logo="http://i.imgur.com/Q58Vlfz.png" group-title="⚡CANAIS 4K",Viva 4K
-http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W_6DApMK70eju-QoM-PpjfL_ThXCyxA5bFF6gP9QW1ri/ts
+
 #EXTINF:-1 xui-id="1195537" tvg-id="" tvg-name="HBO FHD H264 ( CANAIS LEGENDADOS )" tvg-logo="http://i.imgur.com/fxbli3J.png" group-title="⚡HBO",HBO FHD H264 ( CANAIS LEGENDADOS )
 http://smt.appxc.top:80/play/lspS_XHVOpXKZALeGei6W0pDb5GUNgP2qa-7NlxCQZFIqcc7Gx-FjBVKzprVePZm/ts
 #EXTINF:-1 xui-id="1195538" tvg-id="" tvg-name="HBO PLUS FHD H264 ( CANAIS LEGENDADOS )" tvg-logo="http://i.imgur.com/fxbli3J.png" group-title="⚡HBO",HBO PLUS FHD H264 ( CANAIS LEGENDADOS )
