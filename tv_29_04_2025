@@ -581,8 +581,6 @@ http://cdnrez.xyz:80/239571797/238152396/408358.ts
 http://cdnrez.xyz:80/239571797/238152396/17937.ts
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO PE (ASA BRANCA) HD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="Canais | Globo Nordeste",GLOBO PE (ASA BRANCA) HD
 http://cdnrez.xyz:80/239571797/238152396/113383.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Cultura HD" tvg-logo="https://imgur.com/V4kQmJ0.jpeg" group-title="Canais | Variedades",TV Cultura HD
-http://cdnrez.xyz:80/239571797/238152396/410215.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/da/4f/8e/da4f8e42-fcb2-10c3-2d68-43b948636070/source/200x200bb.jpg" group-title="Canais | Religiosos",TV Evangelizar HD
 http://cdnrez.xyz:80/239571797/238152396/39227.ts
 #EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO TV GAZETA ALAGOAS FHD" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="Canais | Globo Sudeste",GLOBO TV GAZETA ALAGOAS FHD
@@ -748,50 +746,6 @@ http://cdnrez.xyz:80/239571797/238152396/1100398.ts
 http://cdnrez.xyz:80/239571797/238152396/1100399.ts
 #EXTINF:-1 tvg-id="" tvg-name="TCM FHD" tvg-logo="https://i.ibb.co/D5JFc10/tcm.png" group-title="Canais | Variedades",TCM FHD
 http://cdnrez.xyz:80/239571797/238152396/1101749.ts
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo 4K" tvg-logo="https://1.bp.blogspot.com/-jMUIdoNtXYI/YBxY_4F9FiI/AAAAAAAAJ0c/YFX_ejcLRb86rZJXGvncIO5QDIAYhxCcACLcBGAsYHQ/s0/globo.png" group-title="Canais | UHD 4K",Globo 4K
-http://cdnrez.xyz:80/239571797/238152396/1107712.ts
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band 4K" tvg-logo="https://lh3.googleusercontent.com/-Qk6TaQeYOto/YG2ok13zN0I/AAAAAAAAKME/H4vgg5e97wk5lEOOic2u3lG8nDWTUKFpACLcBGAsYHQ/BAND%2B4K.png" group-title="Canais | UHD 4K",Band 4K
-http://cdnrez.xyz:80/239571797/238152396/1107713.ts
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT 4K" tvg-logo="https://lh3.googleusercontent.com/-_75vOioAs8U/YG2oks7oxGI/AAAAAAAAKMI/bRsr9OtVQiEAAu_vPetSDZdUxzbWVK88QCLcBGAsYHQ/SBT%2B4K%2B.png" group-title="Canais | UHD 4K",SBT 4K
-http://cdnrez.xyz:80/239571797/238152396/1107714.ts
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record 4K" tvg-logo="https://i.ibb.co/DDn35v7/Novo-rederecord.png" group-title="Canais | UHD 4K",Record 4K
-http://cdnrez.xyz:80/239571797/238152396/1107715.ts
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDETV 4K" tvg-logo="https://lh3.googleusercontent.com/-cVXLh36htco/YG2ofCQfsOI/AAAAAAAAKLY/yey6pMgPgh8427E3wIthZvgAi90R0l6-wCLcBGAsYHQ/REDETV%2B4K.png" group-title="Canais | UHD 4K",REDETV 4K
-http://cdnrez.xyz:80/239571797/238152396/1107716.ts
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow 4K" tvg-logo="https://lh3.googleusercontent.com/-pE1W22zfcPA/YG2oboTpHiI/AAAAAAAAKK4/TbloTY4Zr_E61qVaPVYPLCcD7KQStWyBQCLcBGAsYHQ/MULTISHOW%2B4K.png" group-title="Canais | UHD 4K",Multishow 4K
-http://cdnrez.xyz:80/239571797/238152396/1107717.ts
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space 4K" tvg-logo="https://lh3.googleusercontent.com/-XgsZWFjysXk/YG2oioF-ohI/AAAAAAAAKL0/nhzSUpjnJn4ztx1Eh38Eac664kOF6rU_gCLcBGAsYHQ/SPACE%2B4K.png" group-title="Canais | UHD 4K",Space 4K
-http://cdnrez.xyz:80/239571797/238152396/1107718.ts
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 4K" tvg-logo="https://lh3.googleusercontent.com/-Zb5Jg9iGj-4/YG2obFDviQI/AAAAAAAAKKs/Ycy5WeWqmocD5ilbECPvPbuYwkmEd3nvgCLcBGAsYHQ/SPORTV%2B4K.png" group-title="Canais | UHD 4K",SporTV 4K
-http://cdnrez.xyz:80/239571797/238152396/1107719.ts
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes 4K" tvg-logo="https://i.ibb.co/xMFbB83/premierclubes.png" group-title="Canais | UHD 4K",Premiere Clubes 4K
-http://cdnrez.xyz:80/239571797/238152396/1107720.ts
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 4K" tvg-logo="https://lh3.googleusercontent.com/-VFqo5Tp6WTk/YG2oeoG1amI/AAAAAAAAKLU/wSTuNZrs93gIAwKOTQ1rj8CqfxsiIWu5wCLcBGAsYHQ/HBO%2B4K.png" group-title="Canais | UHD 4K",HBO 4K
-http://cdnrez.xyz:80/239571797/238152396/1107721.ts
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME 4K" tvg-logo="https://lh3.googleusercontent.com/-PFj7H96l-A8/YG2ofgBC2RI/AAAAAAAAKLc/jMOWiydYN-YvQA5x_5QI_RgIi_jcn_U6gCLcBGAsYHQ/HBO%2BXTREME%2B4K.png" group-title="Canais | UHD 4K",HBO XTREME 4K
-http://cdnrez.xyz:80/239571797/238152396/1107722.ts
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix 4K" tvg-logo="https://lh3.googleusercontent.com/-8vyaXVOaBl4/YG2ocZK1wtI/AAAAAAAAKLA/NQpntHhHctkThH1La-Yj2lGWw55m2Er2QCLcBGAsYHQ/MEGA%2BPIX%2B4K.png" group-title="Canais | UHD 4K",Megapix 4K
-http://cdnrez.xyz:80/239571797/238152396/1107723.ts
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA 4K" tvg-logo="https://i.ibb.co/d5TGjz6/tcpipoca.png" group-title="Canais | UHD 4K",TELECINE PIPOCA 4K
-http://cdnrez.xyz:80/239571797/238152396/1107725.ts
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium 4K" tvg-logo="https://i.ibb.co/ZhMZT0D/tcpremium.png" group-title="Canais | UHD 4K",Telecine Premium 4K
-http://cdnrez.xyz:80/239571797/238152396/1107726.ts
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT 4K" tvg-logo="https://lh3.googleusercontent.com/-H-z2NjsWbQw/YG2oi-718FI/AAAAAAAAKL4/7E0XBCST8rUe1cPPzJlJ-L0swZd7-R6DwCLcBGAsYHQ/TNT%2B4K.png" group-title="Canais | UHD 4K",TNT 4K
-http://cdnrez.xyz:80/239571797/238152396/1107727.ts
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series 4K" tvg-logo="https://i.ibb.co/dJpppPg/tntseries.png" group-title="Canais | UHD 4K",TNT Series 4K
-http://cdnrez.xyz:80/239571797/238152396/1107728.ts
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet 4K" tvg-logo="https://lh3.googleusercontent.com/-es1gCmIF2I0/YG2obFZhaOI/AAAAAAAAKKg/BET9SU-3tcUvX7VtNyuw6ypkS5Ho1kbSQCLcBGAsYHQ/ANIMAL%2BPLANET%2B4K.png" group-title="Canais | UHD 4K",Animal Planet 4K
-http://cdnrez.xyz:80/239571797/238152396/1107729.ts
-#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel 4K" tvg-logo="https://i.ibb.co/jRYt1XQ/discovery-channel.png" group-title="Canais | UHD 4K",Discovery Channel 4K
-http://cdnrez.xyz:80/239571797/238152396/1107730.ts
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NATGEO 4K" tvg-logo="https://lh3.googleusercontent.com/-noKfasPvb-k/YG2odcYDo2I/AAAAAAAAKLI/awVr4L79qo0wGTBopIiFRPynSzja_UJXwCLcBGAsYHQ/NATGEO%2B4K.png" group-title="Canais | UHD 4K",NATGEO 4K
-http://cdnrez.xyz:80/239571797/238152396/1107731.ts
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network 4K" tvg-logo="https://i.ibb.co/XWMmzdr/cartoonnetwork.png" group-title="Canais | UHD 4K",Cartoon Network 4K
-http://cdnrez.xyz:80/239571797/238152396/1107732.ts
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate 4K" tvg-logo="https://i.ibb.co/ww9S09p/combate.png" group-title="Canais | UHD 4K",Combate 4K
-http://cdnrez.xyz:80/239571797/238152396/1107733.ts
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 4K" tvg-logo="https://lh3.googleusercontent.com/-VU9AUVeozHI/YG2oc7YJkSI/AAAAAAAAKLE/327rpY4oaLEHJSBSuaQlwwz0CMMxQrx-gCLcBGAsYHQ/FOX%2BSPORTS%2B2%2B4K.png" group-title="Canais | UHD 4K",FOX SPORTS 2 4K
-http://cdnrez.xyz:80/239571797/238152396/1107736.ts
 #EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD SP SD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="Canais | Rede Record",RECORD SP SD
 http://cdnrez.xyz:80/239571797/238152396/1108499.ts
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA TV (PPV)" tvg-logo="https://i.imgur.com/lAnRV6U.jpeg" group-title="Canais | PPV Esportes 1⚽",LALIGA TV (PPV)
@@ -1275,10 +1229,6 @@ http://cdnrez.xyz:80/239571797/238152396/2302913.ts
 http://cdnrez.xyz:80/239571797/238152396/2302914.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD [H265]" tvg-logo="https://lh3.googleusercontent.com/-UX1SWYxIwGA/YB6sme8OSQI/AAAAAAAAJ_Y/IdcL3RYALwsTrRWgeL3hW6RQVGGErWfJgCLcBGAsYHQ/ESPN%2B2.png" group-title="Canais | ESPN⚽",ESPN 2 HD [H265]
 http://cdnrez.xyz:80/239571797/238152396/2302915.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4K" tvg-logo="https://lh3.googleusercontent.com/-61A23iAbdFg/YB6rzXvfSPI/AAAAAAAAJ_M/M1fl_stAkHcPOhzH3cZWMSH6Bl7oCqnFwCLcBGAsYHQ/ESPN.png" group-title="Canais | UHD 4K",ESPN 4K
-http://cdnrez.xyz:80/239571797/238152396/2302884.ts
-#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 4K" tvg-logo="https://lh3.googleusercontent.com/-4h5wLi-DGbM/YG2obFahJ5I/AAAAAAAAKKk/c05Ik85-8tknXkYRp93ZztZPBbAYlRI4gCLcBGAsYHQ/FOX%2BSPORTS%2B4K.png" group-title="Canais | UHD 4K",ESPN 4 4K
-http://cdnrez.xyz:80/239571797/238152396/2302885.ts
 #EXTINF:-1 tvg-id="" tvg-name="Kings League Brasil 01 (Eventos)" tvg-logo="https://cdn.ome.lt/i2XyzEdYiA4t0GpgwZTDZgBnyyY=/1200x630/smart/extras/conteudos/imagem_2024-12-05_162526902.png" group-title="Canais | PPV Kings League BR⚽",Kings League Brasil 01 (Eventos)
 http://cdnrez.xyz:80/239571797/238152396/4595267.ts
 #EXTINF:-1 tvg-id="" tvg-name="Kings League Brasil 02 (Eventos)" tvg-logo="https://cdn.ome.lt/i2XyzEdYiA4t0GpgwZTDZgBnyyY=/1200x630/smart/extras/conteudos/imagem_2024-12-05_162526902.png" group-title="Canais | PPV Kings League BR⚽",Kings League Brasil 02 (Eventos)
